@@ -1,0 +1,950 @@
+crop,pest_common_name,pest_scientific_name,pest_order,pest_family,pest_distribution
+Agave (Agave sisalana),grey pineapple mealybug,Dysmicoccus neobrevipes Beardsley,Homoptera,Pseudococcidae,M=x
+Agave (Agave sisalana),oriental scale,Aonidiella orientalis (Newstead),Homoptera,Diaspididae,Y=xM=x
+Avocado (Persea americana),coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+Avocado (Persea americana),egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+Avocado (Persea americana),florida wax scale,Ceroplastes floridensis Comstock,Homoptera,Coccidae,B=xP=xM=x
+Avocado (Persea americana),latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+Avocado (Persea americana),long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+Avocado (Persea americana),long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+Avocado (Persea americana),melon fly,Dacus cucurbitae Coquillett,Diptera,Tephritidae,M=x
+Avocado (Persea americana),palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+Avocado (Persea americana),phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+Avocado (Persea americana),redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+Avocado (Persea americana),scale,Aspidiotus spinosus Comstock,Homoptera,Diaspididae,Y=x
+Avocado (Persea americana),seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+Avocado (Persea americana),tea shot-hole borer,Xyleborus fornicatus Eichhoff,Coleoptera,Scolytidae,B=xY=xP=x
+Avocado (Persea americana),tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+Avocado (Persea americana),weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+Bamboo (Bambusa),bamboo longhorn,Chlorophorus annularis (F.),Coleoptera,Cerambycidae,M=x
+Bamboo (Bambusa),bamboo scale,Asterolecanium bambusae (Boisduval),Homoptera,Asterolecaniidae,B=xT=nM=x
+Bamboo (Bambusa),bamboo scale,Asterolecanium coronatum Green,Homoptera,Asterolecaniidae,B=x
+Bamboo (Bambusa),bamboo scale,Asterolecanium miliaris (Boisduval),Homoptera,Asterolecaniidae,B=xP=xM=x
+Bamboo (Bambusa),bamboo scale,Asterolecanium pseudolanceolatum Takahashi,Homoptera,Asterolecaniidae,P=?
+Bamboo (Bambusa),bamboo scale,Asterolecanium pseudomiliaris Green,Homoptera,Asterolecaniidae,P=xM=G
+Bamboo (Bambusa),bamboo scale,Asterolecanium robustum Green,Homoptera,Asterolecaniidae,B=xP=xM=G
+Bamboo (Bambusa),chafer beetle,Anomala sulcatula Burmeister,Coleoptera,Scarabaeidae,M=x
+Bamboo (Bambusa),mirid,Pseudoloxops bifasciatus (Usinger),Hemiptera,Miridae,M=RG
+Banana (Musa),banana aphid,Pentalonia nigronervosa Coquerel,Homoptera,Aphididae,B=xY=xT=xP=xK=nM=x
+Banana (Musa),banana corm weevil,Polytus mellerborgi (Boheman),Coleoptera,Curculionidae,M=x
+Banana (Musa),banana leafroller,Erionota thrax (L.),Lepidoptera,Hesperiidae,M=x
+Banana (Musa),banana root borer,Cosmopolites sordidus (Germar),Coleoptera,Curculionidae,P=nM=x
+Banana (Musa),black thread scale,Ischnaspis longirostris (Signoret),Homoptera,Diaspididae,B=xM=G
+Banana (Musa),boisduval scale,Diaspis boisduvalii Signoret,Homoptera,Diaspididae,B=x
+Banana (Musa),brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+Banana (Musa),california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+Banana (Musa),chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+Banana (Musa),citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+Banana (Musa),coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+Banana (Musa),cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+Banana (Musa),derbid planthopper,Lamenia caliginea Stål,Homoptera,Derbidae,B=xY=xT=xP=xK=xM=x
+Banana (Musa),dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+Banana (Musa),egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+Banana (Musa),erect-winged blue plant hopper ,Proutista moesta (Westwood),Homoptera,Derbidae,B=xP=nM=x
+Banana (Musa),fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+Banana (Musa),green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+Banana (Musa),grey pineapple mealybug,Dysmicoccus neobrevipes Beardsley,Homoptera,Pseudococcidae,M=x
+Banana (Musa),hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+Banana (Musa),inornate scale,Aonidiella inornata Mackenzie,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+Banana (Musa),javanese grasshopper,Valanga nigricornis (Burmeister),Orthoptera,Acrididae,B=xY=xT=x
+Banana (Musa),large short-horn grasshopper ,Valanga excavata Stål,Orthoptera,Acrididae,M=x
+Banana (Musa),latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+Banana (Musa),leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+Banana (Musa),mealybug,Pseudococcus microadonidum Beardsley,Homoptera,Pseudococcidae,T=xP=x
+Banana (Musa),orchid mealybug,Pseudococcus orchidicola Takahashi,Homoptera,Pseudococcidae,T=xK=xM=C
+Banana (Musa),rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+Banana (Musa),scale,Aspidiotus excisus Green,Homoptera,Diaspididae,B=xM=C
+Banana (Musa),steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+Banana (Musa),striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+Banana (Musa),tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+Banana (Musa),weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+Beans (Phaseolus),bean butterfly,Lampides boeticus (L.),Lepidoptera,Lycaenidae,B=xY=xT=xM=x
+Beans (Phaseolus),bean fly,Ophiomyia phaseoli (Tryon),Diptera,Agromyzidae,B=xY=xT=xM=x
+Beans (Phaseolus),bean leaf-roller,Lamprosema diemenalis (Guenée),Lepidoptera,Pyralidae,M=G
+Beans (Phaseolus),bean pod borer,Maruca testulalis (Geyer),Lepidoptera,Pyralidae,B=nM=x
+Beans (Phaseolus),black garden fleahopper,Halticus tibialis Reuter,Hemiptera,Miridae,B=xY=xT=xP=xK=xM=x
+Beans (Phaseolus),black island stink bug,Brachyplatys insularis Ruckes,Hemiptera,Plataspididae,B=xY=nT=xP=nK=nM=x
+Beans (Phaseolus),black island stink bug,Brachyplatys insularis Ruckes,Hemiptera,Plataspididae,B=xY=nT=xP=nK=nM=x
+Beans (Phaseolus),black stink bug,Coptosoma xanthogramma (White),Hemiptera,Plataspididae,K=nM=n
+Beans (Phaseolus),broad mite (Polyphagotarsonemus latus (Banks)) Acari,Tarsonemidae M=x,,,
+Beans (Phaseolus),chinese rose beetle (Adoretus sinicus Burmeister) Coleoptera,Scarabaeidae B=x M=x,,,
+Beans (Phaseolus),citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+Beans (Phaseolus),cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+Beans (Phaseolus),cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+Beans (Phaseolus),eggplant horned planthopper,Leptocentrus taurus (F.),Homoptera,Membracidae,M=x
+Beans (Phaseolus),green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+Beans (Phaseolus),green leafhopper,Empoasca pitiensis Metcalf,Homoptera,Cicadellidae,M=?
+Beans (Phaseolus),green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+Beans (Phaseolus),lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+Beans (Phaseolus),leaf beetle (Pagria signata) (Motschulsky) Coleoptera,Chrysomelidae M=G,,,
+Beans (Phaseolus),leaf blotch miner moth,Acrocercops sp. ,Lepidoptera,Gracillariidae,B=x?T=x?P=x?M=C
+Beans (Phaseolus),leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+Beans (Phaseolus),leafhopper,Exitianus capicola (Stål),Homoptera,Cicadellidae,Y=xT=xP=xK=xM=x
+Beans (Phaseolus),lima-bean pod borer,Etiella zinckenella (Treitschke),Lepidoptera,Pyralidae,M=x
+Beans (Phaseolus),litchi fruit moth,Cryptophlebia ombrodelta (Lower),Lepidoptera,Tortricidae,B=xM=x
+Beans (Phaseolus),lygeid bug,Nysius pulchellus (Stål),Hemiptera,Lygaeidae,T=xK=xM=x
+Beans (Phaseolus),melia tortricid,Adoxophyes melia Clarke,Lepidoptera,Tortricidae,M=x
+Beans (Phaseolus),melon fly,Dacus cucurbitae Coquillett,Diptera,Tephritidae,M=x
+Beans (Phaseolus),melon thrips,Thrips palmi Karny,Thysanoptera,Thripidae,Y=nM=G
+Beans (Phaseolus),old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+Beans (Phaseolus),onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+Beans (Phaseolus),philippine katydid,Phaneroptera furcifera Stål,Orthoptera,Tettigoniidae,P=xM=x
+Beans (Phaseolus),plume moth,Sphenarches caffer Zeller,Lepidoptera,Pterophoridae,M=G
+Beans (Phaseolus),rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+Beans (Phaseolus),schield bug,Piezodorus hybneri (Gmelin),Hemiptera,Pentatomidae,B=xY=n?M=x
+Beans (Phaseolus),serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+Beans (Phaseolus),southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+Beans (Phaseolus),soybean fly,Melanagromyza sojae (Zehntner),Diptera,Agromyzidae,B=x
+Beans (Phaseolus),spider mite (Tetranychus tumidus) Acari,Tetranychidae M=x,,,
+Beans (Phaseolus),striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+Beans (Phaseolus),sweet potato hawk moth,Agrius convolvuli (L.),Lepidoptera,Sphingidae,B=xY=xT=xP=xM=x
+Beans (Phaseolus),sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+Beans (Phaseolus),truk bean bug,Lygus trukensis Carvalho,Hemiptera,Miridae,T=x
+Beans (Phaseolus),vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+Bermuda grass (Cynodon),grass leaf-folder,Marasmia venilialis (Walker),Lepidoptera,Pyralidae,M=G
+Bermuda grass (Cynodon),lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+Bermuda grass (Cynodon),rhodesgrass mealybug,Antonina graminis (Maskell,Homoptera,Pseudococcidae,B=xT=xM=x
+"Betel nut, Areca",armored scale,Lepidosaphes laterochitinosa Green,Homoptera,Diaspididae,B=xY=n?P=n?M=x
+"Betel nut, Areca",coconut rhinoceros beetle,Oryctes rhinoceros (L.),Coleoptera,Scarabaeidae,B=x
+"Betel nut, Areca",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Betel nut, Areca",coconut shot-hole borer,Xyleborus perforans (Wollaston),Coleoptera,Scolytidae,B=xY=xT=xP=xK=xM=x
+"Betel nut, Areca",coconut weevil,Diocalandra frumenti (F.),Coleoptera,Curculionidae,B=xT=xM=G
+"Betel nut, Areca",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Betel nut, Areca",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Betel nut, Areca",fern scale,Pinnaspis aspidistrae (Signoret),Homoptera,Diaspididae,B=xP=x
+"Betel nut, Areca",greenhouse thrips,Heliothrips haemorrhoidalis (Bouché),Thysanoptera,Thripidae,M=G
+"Betel nut, Areca",inday scale,Phenacaspis inday (Banks),Homoptera,Diaspididae,B=xY=xM=G
+"Betel nut, Areca",latania aphid,Cerataphis lataniae (Boisduval),Homoptera,Aphididae,Y=xP=xM=x
+"Betel nut, Areca",mango soft scale,Coccus mangiferae (Green),Homoptera,Coccidae,B=x
+"Betel nut, Areca",moth,Agonoxena sp. ,Lepidoptera,Agonoxenidae,M=G
+"Betel nut, Areca",moth,Batrachedra sp. ,Lepidoptera,Coleophoridae,M=G
+"Betel nut, Areca",new guinea sugarcane weevil,Rhabdoscelus obscurus (Boisduval),Coleoptera,Curculionidae,B=xM=x
+"Betel nut, Areca",oriental flower beetle,Protaetia orientalis (Gory &amp; Percheron),Coleoptera,Scarabaeidae,M=G
+"Betel nut, Areca",palm mealybug,Palmicultor palmarum (Ehrhorn),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=x
+"Betel nut, Areca",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Betel nut, Areca",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Betel nut, Areca",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Betel nut, Areca",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Betel nut, Areca",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Betel nut, Areca",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Betel nut, Areca",ti scale,Pinnaspis buxi (Bouché),Homoptera,Diaspididae,P=xM=G
+"Breadfruit, Artocarpus altitis",breadfruit fruitfly,Dacus umbrosus F.,Diptera,Tephritidae,B=x
+"Breadfruit, Artocarpus altitis",breadfruit twig borer weevil,Aclees porosus Pascoe,Coleoptera,Curculionidae,B=xY=x
+"Breadfruit, Artocarpus altitis",breadfruit whitefly,Xenaleyrodes artocarpi Takahashi,Homoptera,Aleyrodidae,B=x
+"Breadfruit, Artocarpus altitis",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Breadfruit, Artocarpus altitis",california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+"Breadfruit, Artocarpus altitis",coccid scale,Coccus moestus De Lotto,Homoptera,Coccidae,B=xT=xM=x
+"Breadfruit, Artocarpus altitis",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Breadfruit, Artocarpus altitis",coconut shot-hole borer,Xyleborus perforans (Wollaston),Coleoptera,Scolytidae,B=xY=xT=xP=xK=xM=x
+"Breadfruit, Artocarpus altitis",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Breadfruit, Artocarpus altitis",cottony-cushion scale,Icerya purchasi Maskell,Homoptera,Margarodidae,M=G
+"Breadfruit, Artocarpus altitis",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Breadfruit, Artocarpus altitis",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Breadfruit, Artocarpus altitis",florida red scale,Chrysomphalus aonidum (L.),Homoptera,Diaspididae,P=x
+"Breadfruit, Artocarpus altitis",fruitfly,Dacus frauenfeldi Schiner,Diptera,Tephritidae,B=xY=xT=xP=xK=x
+"Breadfruit, Artocarpus altitis",inornate scale,Aonidiella inornata Mackenzie,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Breadfruit, Artocarpus altitis",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Breadfruit, Artocarpus altitis",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Breadfruit, Artocarpus altitis",long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+"Breadfruit, Artocarpus altitis",longhorn beetle,Ceresium unicolor (F.),Coleoptera,Cerambycidae,T=xP=xK=xM=x
+"Breadfruit, Artocarpus altitis",marshall mealybug,Pseudococcus marshallensis Beardsley,Homoptera,Pseudococcidae,K=x
+"Breadfruit, Artocarpus altitis",mealybug,Pseudococcus trukensis Beardsley,Homoptera,Pseudococcidae,T=xP=x
+"Breadfruit, Artocarpus altitis",oleander pit scale,Asterolecanium pustulans (Cockerell),Homoptera,Asterolecaniidae,B=xT=xM=G
+"Breadfruit, Artocarpus altitis",ono breadfruit planthopper,Phaciocephalus onoi Metcalf,Homoptera,Derbidae,T=x
+"Breadfruit, Artocarpus altitis",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Breadfruit, Artocarpus altitis",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Breadfruit, Artocarpus altitis",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Breadfruit, Artocarpus altitis",scale,Andaspis punicae (Laing),Homoptera,Diaspididae,B=xM=G
+"Breadfruit, Artocarpus altitis",scale,Aspidiotus excisus Green,Homoptera,Diaspididae,B=xM=C
+"Breadfruit, Artocarpus altitis",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Breadfruit, Artocarpus altitis",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Breadfruit, Artocarpus altitis",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Breadfruit, Artocarpus altitis",stellate scale,Vinsonia stellifera Westwood,Homoptera,Coccidae,B=xY=nP=xK=n
+"Breadfruit, Artocarpus altitis",white peach scale,Pseudaulacaspis pentagona (Targioni-Tozzetti),Homoptera,Diaspididae,B=xT=xM=x
+"Cabbages and related crops, Brassica",black garden fleahopper,Halticus tibialis Reuter,Hemiptera,Miridae,B=xY=xT=xP=xK=xM=x
+"Cabbages and related crops, Brassica",cabbage cluster caterpillar,Crocidolomia binotalis Zeller,Lepidoptera,Pyralidae,B=xM=x
+"Cabbages and related crops, Brassica",cabbage serpentine leafminer,Liriomyza brassicae (Riley),Diptera,Agromyzidae,M=x
+"Cabbages and related crops, Brassica",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Cabbages and related crops, Brassica","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Cabbages and related crops, Brassica",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Cabbages and related crops, Brassica",diamondback moth,Plutella xylostella (L.),Lepidoptera,Yponomeutidae,B=nM=x
+"Cabbages and related crops, Brassica",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Cabbages and related crops, Brassica",melia tortricid,Adoxophyes melia Clarke,Lepidoptera,Tortricidae,M=x
+"Cabbages and related crops, Brassica",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Cabbages and related crops, Brassica",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Cabbages and related crops, Brassica",oriental cabbage webworm,Hellula undalis (F.),Lepidoptera,Pyralidae,B=xM=GC?
+"Cabbages and related crops, Brassica",philippine katydid,Phaneroptera furcifera Stål,Orthoptera,Tettigoniidae,P=xM=x
+"Cabbages and related crops, Brassica",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Cabbages and related crops, Brassica",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Cabbages and related crops, Brassica",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Cabbages and related crops, Brassica",turnip aphid,Lipaphis erysimi (Kaltenbach),Homoptera,Aphididae,M=x
+"Cabbages and related crops, Brassica",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Cassava, Manihot esculenta",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Cassava, Manihot esculenta",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Cassava, Manihot esculenta",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Cassava, Manihot esculenta",mealybug,Phenacoccus madeirensis Green,Homoptera,Pseudococcidae,T=nP=nM=G
+"Cassava, Manihot esculenta",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Cassava, Manihot esculenta",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Cassava, Manihot esculenta",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Cassava, Manihot esculenta",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Cassava, Manihot esculenta",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=C
+"Cassava, Manihot esculenta",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=x
+"Cassava, Manihot esculenta",spider mite,Tetranychus truncatus Ehara,Acari,Tetranychidae,M=G
+"Cassava, Manihot esculenta",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Cassava, Manihot esculenta",white peach scale,Pseudaulacaspis pentagona (Targioni-Tozzetti),Homoptera,Diaspididae,B=xT=xM=x
+"Cocoa, Theobroma cacao",black citrus aphid,Toxoptera aurantii (Boyer de Fonscombe),Homoptera,Aphididae,T=xM=x
+"Cocoa, Theobroma cacao",black twig borer,Xyleborus ferrugineus (F.),Coleoptera,Scolytidae,T=xP=xK=xM=x
+"Cocoa, Theobroma cacao",cacao armyworm,Tiracola plagiata (Walker),Lepidoptera,Noctuidae,M=x
+"Cocoa, Theobroma cacao",cacao spotted long-horned beetle ,Pelargoderus luteosparsus (Matsushita),Coleoptera,Cerambycidae,B=x
+"Cocoa, Theobroma cacao",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Cocoa, Theobroma cacao",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Cocoa, Theobroma cacao",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Cocoa, Theobroma cacao",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Cocoa, Theobroma cacao",derbid hopper,Eusyphax bivittatus (Metcalf),Homoptera,Derbidae,M=G
+"Cocoa, Theobroma cacao",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Cocoa, Theobroma cacao",grey pineapple mealybug,Dysmicoccus neobrevipes Beardsley,Homoptera,Pseudococcidae,M=x
+"Cocoa, Theobroma cacao",leaf beetle,Coenobius glochidionis Gressitt,Coleoptera,Chrysomelidae,B=x
+"Cocoa, Theobroma cacao",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Cocoa, Theobroma cacao",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Cocoa, Theobroma cacao",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Cocoa, Theobroma cacao",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Cocoa, Theobroma cacao",redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+"Cocoa, Theobroma cacao",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Cocoa, Theobroma cacao",shot-hole borer,Xyleborus similis Ferrari,Coleoptera,Scolytidae,B=xT=xP=xK=xM=x
+"Cocoa, Theobroma cacao",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Cocoa, Theobroma cacao",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Cocoa, Theobroma cacao",tea shot-hole borer,Xyleborus fornicatus Eichhoff,Coleoptera,Scolytidae,B=xY=xP=x
+"Coconut palm, Cocos nucifera",aphid,Astegopteryx rhapidis (van der Goot),Homoptera,Aphididae,B=x
+"Coconut palm, Cocos nucifera",armored scale,Lepidosaphes esakii Takahashi,Homoptera,Diaspididae,T=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",black thread scale,Ischnaspis longirostris (Signoret),Homoptera,Diaspididae,B=xM=G
+"Coconut palm, Cocos nucifera",black twig borer,Xyleborus ferrugineus (F.),Coleoptera,Scolytidae,T=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Coconut palm, Cocos nucifera",coconut flat moth,Agonoxena pyrogramma Meyrick,Lepidoptera,Agonoxenidae,T=n?P=n?K=xM=G
+"Coconut palm, Cocos nucifera",coconut long-horned beetle,Caroliniella aenescens Blair,Coleoptera,Cerambycidae,T=xK=x
+"Coconut palm, Cocos nucifera",coconut long-horned grasshopper ,Segestes unicolor Redtenbacher,Orthoptera,Tettigoniidae,B=x
+"Coconut palm, Cocos nucifera",coconut red scale,Furcaspis oceanica Lindinger,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",coconut rhinoceros beetle,Oryctes rhinoceros (L.),Coleoptera,Scarabaeidae,B=x
+"Coconut palm, Cocos nucifera",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Coconut palm, Cocos nucifera",coconut shot-hole borer,Xyleborus perforans (Wollaston),Coleoptera,Scolytidae,B=xY=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",coconut stick insect,Acanthograeffea modesta Gunther,Phasmatodea,Phasmatidae,T=xP=x
+"Coconut palm, Cocos nucifera",coconut weevil,Diocalandra frumenti (F.),Coleoptera,Curculionidae,B=xT=xM=G
+"Coconut palm, Cocos nucifera",denticulate stick insect,Acanthograeffea denticulata (Redtenbacher),Phasmatodea,Phasmatidae,M=x
+"Coconut palm, Cocos nucifera",derbid hopper,Flaccia dione Fennah,Homoptera,Derbidae,K=xM=n
+"Coconut palm, Cocos nucifera",derbid hopper,Swezeyia zephyrus Fennah,Homoptera,Derbidae,B=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",derbid planthopper,Lamenia numitor Fennah,Homoptera,Derbidae,Y=xM=x
+"Coconut palm, Cocos nucifera",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Coconut palm, Cocos nucifera",false yellow scale,Aonidiella comperei Mckenzie,Homoptera,Diaspididae,B=xY=xT=xM=x
+"Coconut palm, Cocos nucifera",fern scale,Pinnaspis aspidistrae (Signoret),Homoptera,Diaspididae,B=xP=x
+"Coconut palm, Cocos nucifera",florida red scale,Chrysomphalus aonidum (L.),Homoptera,Diaspididae,P=x
+"Coconut palm, Cocos nucifera",guam mealybug,Palmicultor guamensis Beardsley,Homoptera,Pseudococcidae,M=G
+"Coconut palm, Cocos nucifera",inday scale,Phenacaspis inday (Banks),Homoptera,Diaspididae,B=xY=xM=G
+"Coconut palm, Cocos nucifera",inornate scale,Aonidiella inornata Mackenzie,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Coconut palm, Cocos nucifera",javanese grasshopper,Valanga nigricornis (Burmeister),Orthoptera,Acrididae,B=xY=xT=x
+"Coconut palm, Cocos nucifera",kamani psyllid,Leptynoptera sulfurea Crawford,Homoptera,Psyllidae,B=xY=xP=xK=xM=G
+"Coconut palm, Cocos nucifera",kanehira termite,Neotermes kanehirae (Oshima),Isoptera,Kalotermitidae,B=x
+"Coconut palm, Cocos nucifera",large short-horn grasshopper ,Valanga excavata Stål,Orthoptera,Acrididae,M=x
+"Coconut palm, Cocos nucifera",latania aphid,Cerataphis lataniae (Boisduval),Homoptera,Aphididae,Y=xP=xM=x
+"Coconut palm, Cocos nucifera",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",leafhopper,Exitianus plebeius (Kirkaldy),Homoptera,Cicadellidae,M=Gn
+"Coconut palm, Cocos nucifera",leafhopper,Protalebrella braziliensis (Baker),Homoptera,Cicadellidae,M=Gn
+"Coconut palm, Cocos nucifera",lesser snow scale,Pinnaspis strachani (Cooley),Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Coconut palm, Cocos nucifera",litchi fruit moth,Cryptophlebia ombrodelta (Lower),Lepidoptera,Tortricidae,B=xM=x
+"Coconut palm, Cocos nucifera",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Coconut palm, Cocos nucifera",mariana coconut leaf beetle,Brontispa mariana Spaeth,Coleoptera,Chrysomelidae,Y=xT=xM=C
+"Coconut palm, Cocos nucifera",mealybug,Pseudococcus microadonidum Beardsley,Homoptera,Pseudococcidae,T=xP=x
+"Coconut palm, Cocos nucifera",new guinea sugarcane weevil,Rhabdoscelus obscurus (Boisduval),Coleoptera,Curculionidae,B=xM=x
+"Coconut palm, Cocos nucifera",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Coconut palm, Cocos nucifera",oriental flower beetle,Protaetia orientalis (Gory &amp; Percheron),Coleoptera,Scarabaeidae,M=G
+"Coconut palm, Cocos nucifera",palau coconut leaf beetle,Brontispa palauensis (Esaki &amp; Chujo),Coleoptera,Chrysomelidae,B=xM=G
+"Coconut palm, Cocos nucifera",palau coconut whitefly,Aleurocanthus palauensis Kuwana,Homoptera,Aleyrodidae,B=x
+"Coconut palm, Cocos nucifera",palm mealybug,Palmicultor palmarum (Ehrhorn),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=x
+"Coconut palm, Cocos nucifera",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Coconut palm, Cocos nucifera",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Coconut palm, Cocos nucifera",pohnpei coconut leaf beetle,Brontispa chalybeipennis (Zacher),Coleoptera,Chrysomelidae,P=xK=x
+"Coconut palm, Cocos nucifera",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Coconut palm, Cocos nucifera",saipan mealybug,Dysmicoccus saipanensis (Shiraiwa),Homoptera,Pseudococcidae,Y=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",scale,Aonidiella eremocitri Mckenzie,Homoptera,Diaspididae,B=x
+"Coconut palm, Cocos nucifera",scale,Aspidiotus excisus Green,Homoptera,Diaspididae,B=xM=C
+"Coconut palm, Cocos nucifera",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Coconut palm, Cocos nucifera",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Coconut palm, Cocos nucifera",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Coconut palm, Cocos nucifera",shot-hole borer,Xyleborus similis Ferrari,Coleoptera,Scolytidae,B=xT=xP=xK=xM=x
+"Coconut palm, Cocos nucifera",spiralling whitefly,Aleurodicus dispersus Russell,Homoptera,Aleyrodidae,B=nP=nM=x
+"Coconut palm, Cocos nucifera",spittlebug,Lallemandana phalerata (Stål),Homoptera,Cercopidae,P=xM=x
+"Coconut palm, Cocos nucifera",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Coconut palm, Cocos nucifera",stellate scale,Vinsonia stellifera Westwood,Homoptera,Coccidae,B=xY=nP=xK=n
+"Coconut palm, Cocos nucifera",strangulate weevil,Trochorhopalus strangulatus (Gyllenhal),Coleoptera,Curculionidae,B=x
+"Coconut palm, Cocos nucifera",sugarcane weevil borer,Rhabdoscelus asperipennis (Fairmaire),Coleoptera,Curculionidae,B=x
+"Coconut palm, Cocos nucifera",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Coffee, Coffea",black citrus aphid,Toxoptera aurantii (Boyer de Fonscombe),Homoptera,Aphididae,T=xM=x
+"Coffee, Coffea",black scale,Saissetia  ?oleae (Bernard),Homoptera,Coccidae,B=xT=xM=x
+"Coffee, Coffea",black thread scale,Ischnaspis longirostris (Signoret),Homoptera,Diaspididae,B=xM=G
+"Coffee, Coffea",black twig borer,Xyleborus morigerus Blandford,Coleoptera,Scolytidae,T=xP=xM=x
+"Coffee, Coffea",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Coffee, Coffea",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Coffee, Coffea",coffee berry borer,Hypothenemus hampei (Ferrari),Coleoptera,Curculionidae,P=xM=S
+"Coffee, Coffea",green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+"Coffee, Coffea",green shield scale,Chloropulvinaria psidii Maskell,Homoptera,Coccidae,B=xT=xP=xK=xM=x
+"Coffee, Coffea",greenhouse thrips,Heliothrips haemorrhoidalis (Bouché),Thysanoptera,Thripidae,M=G
+"Coffee, Coffea",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Coffee, Coffea",long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+"Coffee, Coffea",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Coffee, Coffea",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Coffee, Coffea",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Coffee, Coffea",scale,Duplaspidiotus tesseratus (de Charmoy),Homoptera,Diaspididae,M=G?
+"Coffee, Coffea",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Coffee, Coffea",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Coffee, Coffea",thrips,Aleurodothrips fasciapennis (Franklin),Thysanoptera,Thripidae,M=G
+"Coffee, Coffea",thrips,Karnyothrips melaleuca (Bagnall),Thysanoptera,Thripidae,M=G
+"Cotton, Gossypium",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Cotton, Gossypium",carmine spider mite,Tetranychus cinnabarinus (Boisd.),Acari,Tetranychidae,M=x
+"Cotton, Gossypium",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Cotton, Gossypium","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Cotton, Gossypium",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Cotton, Gossypium",cucurbit leafroller,Diaphania indica (Saunders),Lepidoptera,Pyralidae,B=xM=x
+"Cotton, Gossypium",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Cotton, Gossypium",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Cotton, Gossypium",indian cotton jassid,Sundapteryx biguttula (Ishida),Homoptera,Cicadellidae,B=?M=GS
+"Cotton, Gossypium",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Cotton, Gossypium",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Cotton, Gossypium",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Cotton, Gossypium",okra caterpillar,Anomis erosa Hübner,Lepidoptera,Noctuidae,B=xY=xM=?
+"Cotton, Gossypium",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Cotton, Gossypium",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Cotton, Gossypium",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Cotton, Gossypium",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Cotton, Gossypium",stainer bug,Oxycarenus bicolor Fieber,Hemiptera,Lygaeidae,M=x
+"Cotton, Gossypium",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Cotton, Gossypium",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Crotons, Codiaeum variegatum",castor semilooper,Achaea janata (L.),Lepidoptera,Noctuidae,M=G
+"Crotons, Codiaeum variegatum",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Crotons, Codiaeum variegatum",croton mussel scale,Lepidosaphes tokionis (Kuwana),Homoptera,Diaspididae,B=xY=xT=xM=x
+"Crotons, Codiaeum variegatum",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Crotons, Codiaeum variegatum",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Crotons, Codiaeum variegatum",weevil,Trigonops hirsuta Zimmerman,Coleoptera,Curculionidae,M=G
+"Crotons, Codiaeum variegatum",weevil,Trigonops inusitata Zimmerman,Coleoptera,Curculionidae,M=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",black garden fleahopper,Halticus tibialis Reuter,Hemiptera,Miridae,B=xY=xT=xP=xK=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",black-back cucumber beetle,Aulacophora flavomarginata Duvivier,Coleoptera,Chrysomelidae,B=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",blue-back cucumber beetle,Aulacophora marginalis Chapuis,Coleoptera,Chrysomelidae,B=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",cucurbit leafroller,Diaphania indica (Saunders),Lepidoptera,Pyralidae,B=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Cucumber, squash, melons, etc., Cucurbitaceae",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",island fleahopper,Halticus insularis Usinger,Hemiptera,Miridae,M=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",large spined-footed bug,Physomerus grossipes (F.),Hemiptera,Coreidae,B=nM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",melon fly,Dacus cucurbitae Coquillett,Diptera,Tephritidae,M=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",melon thrips,Thrips palmi Karny,Thysanoptera,Thripidae,Y=nM=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",melonworm,Diaphania hyalinata (L.),Lepidoptera,Pyralidae,B=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",orange cucumber beetle,Aulacophora similis (Olivier),Coleoptera,Chrysomelidae,B=xY=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",plume moth,Sphenarches caffer Zeller,Lepidoptera,Pterophoridae,M=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",purple scale,Lepidosaphes beckii (Newman),Homoptera,Diaspididae,T=xP=xM=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Cucumber, squash, melons, etc., Cucurbitaceae",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",spotted cucumber beetle,Aulacophora quadrimaculata (F.),Coleoptera,Chrysomelidae,Y=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",three-green-lined weevil,Nanyozo viridilineatus Kono,Coleoptera,Curculionidae,T=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",truk stink bug,Megymenum affine Boisduval,Hemiptera,Pentatomidae,T=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Cucumber, squash, melons, etc., Cucurbitaceae",weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+"Cucumber, squash, melons, etc., Cucurbitaceae",white-banded grasshopper,Stenocatantops splendens (Thunberg),Orthoptera,Acrididae,M=G
+"Cycads, Cycas",caroline scale,Lepidosaphes carolinensis Beardsley,Homoptera,Diaspididae,B=xY=x
+"Cycads, Cycas",caterpillar,Chilades pandava ,Lepidoptera,Lycaenidae,M=S
+"Cycads, Cycas",false yellow scale,Aonidiella comperei Mckenzie,Homoptera,Diaspididae,B=xY=xT=xM=x
+"Cycads, Cycas",florida wax scale,Ceroplastes floridensis Comstock,Homoptera,Coccidae,B=xP=xM=x
+"Cycads, Cycas",pentatomid bug,Alciphron glaucus (F.),Hemiptera,Pentatomidae,M=x
+"Cycads, Cycas",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Cycads, Cycas",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Cycads, Cycas",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Cycads, Cycas",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Cycads, Cycas",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Cycads, Cycas",spittlebug,Lallemandana phalerata (Stål),Homoptera,Cercopidae,P=xM=x
+"Cycads, Cycas",weevil,Anaballus amplicollis (Fairmaire),Coleoptera,Curculionidae,M=G
+"Eggplant, Solanum melongena",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Eggplant, Solanum melongena",carmine spider mite,Tetranychus cinnabarinus (Boisd.),Acari,Tetranychidae,M=x
+"Eggplant, Solanum melongena",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Eggplant, Solanum melongena",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Eggplant, Solanum melongena",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Eggplant, Solanum melongena","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Eggplant, Solanum melongena",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Eggplant, Solanum melongena",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Eggplant, Solanum melongena",eggplant horned planthopper,Leptocentrus taurus (F.),Homoptera,Membracidae,M=x
+"Eggplant, Solanum melongena",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Eggplant, Solanum melongena",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Eggplant, Solanum melongena",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Eggplant, Solanum melongena",hornworm,Protoparce sp. ,Lepidoptera,Sphingidae,M=C
+"Eggplant, Solanum melongena",indian cotton jassid,Sundapteryx biguttula (Ishida),Homoptera,Cicadellidae,B=?M=GS
+"Eggplant, Solanum melongena",kosrae lygus bug,Lygus kusaiensis Carvalho,Hemiptera,Miridae,K=x
+"Eggplant, Solanum melongena",large spined-footed bug,Physomerus grossipes (F.),Hemiptera,Coreidae,B=nM=x
+"Eggplant, Solanum melongena",lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+"Eggplant, Solanum melongena",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Eggplant, Solanum melongena",lesser snow scale,Pinnaspis strachani (Cooley),Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Eggplant, Solanum melongena",melon thrips,Thrips palmi Karny,Thysanoptera,Thripidae,Y=nM=G
+"Eggplant, Solanum melongena",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Eggplant, Solanum melongena",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Eggplant, Solanum melongena",oriental scale,Aonidiella orientalis (Newstead),Homoptera,Diaspididae,Y=xM=x
+"Eggplant, Solanum melongena",philippine lady beetle,Epilachna vigintisexpunctata philippensis (Dieke),Coleoptera,Coccinellidae,Y=?K=x
+"Eggplant, Solanum melongena",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Eggplant, Solanum melongena",scale,Andaspis punicae (Laing),Homoptera,Diaspididae,B=xM=G
+"Eggplant, Solanum melongena",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Eggplant, Solanum melongena",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Eggplant, Solanum melongena",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Eggplant, Solanum melongena",spider mite,Tetranychus tumidus ,Acari,Tetranychidae,M=x
+"Eggplant, Solanum melongena",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Eggplant, Solanum melongena",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Eggplant, Solanum melongena",tobacco flea beetle,Epitrix hirtipennis (Melsheimer),Coleoptera,Chrysomelidae,M=G
+"Figs, Ficus",blue-spotted king crow,Euploea leucostictos Eschscholtz,Lepidoptera,Nymphalidae,M=x
+"Figs, Ficus",mexican wax scale,Ceroplastes ceriferus Anderson,Homoptera,Coccidae,M=G
+"Ginger, Zingiber officinale",asian corn borer,Ostrinia furnacalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Ginger, Zingiber officinale",banana aphid,Pentalonia nigronervosa Coquerel,Homoptera,Aphididae,B=xY=xT=xP=xK=nM=x
+"Ginger, Zingiber officinale",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Ginger, Zingiber officinale",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Guava, Psidium guajava",acuminate scale,Kilifia acuminata (Signoret),Homoptera,Coccidae,"M=G,R"
+"Guava, Psidium guajava",armored scale,Lepidosaphes laterochitinosa Green,Homoptera,Diaspididae,B=xY=n?P=n?M=x
+"Guava, Psidium guajava",black scale,Saissetia  ?oleae (Bernard),Homoptera,Coccidae,B=xT=xM=x
+"Guava, Psidium guajava",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Guava, Psidium guajava",california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+"Guava, Psidium guajava",carribean black scale,Saissetia neglecta DeLotto,Homoptera,Coccidae,B=xP=nM=G
+"Guava, Psidium guajava",chaff scale,Parlatoria pergandii Comstock,Homoptera,Diaspididae,T=xP=x
+"Guava, Psidium guajava",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Guava, Psidium guajava",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Guava, Psidium guajava",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Guava, Psidium guajava",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Guava, Psidium guajava",forest tree termite,Neotermes connexus Snyder,Isoptera,Kalotermitidae,M=x
+"Guava, Psidium guajava",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Guava, Psidium guajava",fruitfly,Dacus frauenfeldi Schiner,Diptera,Tephritidae,B=xY=xT=xP=xK=x
+"Guava, Psidium guajava",green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+"Guava, Psidium guajava",green shield scale,Chloropulvinaria psidii Maskell,Homoptera,Coccidae,B=xT=xP=xK=xM=x
+"Guava, Psidium guajava",guava bud moth,Strepsicrates ejectana (Walker),Lepidoptera,Tortricidae,M=x
+"Guava, Psidium guajava",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Guava, Psidium guajava",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Guava, Psidium guajava",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Guava, Psidium guajava",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Guava, Psidium guajava",moth,Anua tongaensis Hampson,Lepidoptera,Noctuidae,M=G
+"Guava, Psidium guajava",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Guava, Psidium guajava",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Guava, Psidium guajava",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Guava, Psidium guajava",redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+"Guava, Psidium guajava",scale,Kilifia deltoides DeLotto,Homoptera,Coccidae,B=x
+"Guava, Psidium guajava",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Guava, Psidium guajava",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Guava, Psidium guajava",spiralling whitefly,Aleurodicus dispersus Russell,Homoptera,Aleyrodidae,B=nP=nM=x
+"Guava, Psidium guajava",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Guava, Psidium guajava",stellate scale,Vinsonia stellifera Westwood,Homoptera,Coccidae,B=xY=nP=xK=n
+"Guava, Psidium guajava",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Guava, Psidium guajava",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Guava, Psidium guajava",tortricid moth,Dudua aprobola (Meyrick),Lepidoptera,Tortricidae,K=xM=x
+"Guava, Psidium guajava",woolly whitefly,Aleurothrixus floccosus (Maskell),Homoptera,Aleyrodidae,M=G
+"Indian coral tree, Erythrina variegata",black scale,Saissetia  ?oleae (Bernard),Homoptera,Coccidae,B=xT=xM=x
+"Indian coral tree, Erythrina variegata",eggplant horned planthopper,Leptocentrus taurus (F.),Homoptera,Membracidae,M=x
+"Indian coral tree, Erythrina variegata",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Indian coral tree, Erythrina variegata",mexican black scale,Saissetia miranda (Cockerell &amp; Parrott),Homoptera,Coccidae,M=G
+"Indian coral tree, Erythrina variegata",moth,Agathodes ostentalis (Geyer),Lepidoptera,Pyralidae,M=G
+"Indian coral tree, Erythrina variegata",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Indian coral tree, Erythrina variegata",weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+"Ironwood, Casuarina equisetifolia",cottony-cushion scale,Icerya purchasi Maskell,Homoptera,Margarodidae,M=G
+"Ironwood, Casuarina equisetifolia",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Ironwood, Casuarina equisetifolia",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Ironwood, Casuarina equisetifolia",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Jackfruit, Artocarpus heterophyllus",breadfruit fruitfly,Dacus umbrosus F.,Diptera,Tephritidae,B=x
+"Jackfruit, Artocarpus heterophyllus",california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+"Jackfruit, Artocarpus heterophyllus",green shield scale,Chloropulvinaria psidii Maskell,Homoptera,Coccidae,B=xT=xP=xK=xM=x
+"Jackfruit, Artocarpus heterophyllus",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Jackfruit, Artocarpus heterophyllus",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Jackfruit, Artocarpus heterophyllus",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Jackfruit, Artocarpus heterophyllus",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Kamani, Calophyllum inophyllum",derbid planthopper,Lamenia caliginea Stål,Homoptera,Derbidae,B=xY=xT=xP=xK=xM=x
+"Kamani, Calophyllum inophyllum",kamani psyllid,Leptynoptera sulfurea Crawford,Homoptera,Psyllidae,B=xY=xP=xK=xM=G
+"Kamani, Calophyllum inophyllum",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Kamani, Calophyllum inophyllum",weevil,Trigonops inusitata Zimmerman,Coleoptera,Curculionidae,M=G
+"Lemon, etc., Citrus",acuminate scale,Kilifia acuminata (Signoret),Homoptera,Coccidae,"M=G,R"
+"Lemon, etc., Citrus",black citrus aphid,Toxoptera aurantii (Boyer de Fonscombe),Homoptera,Aphididae,T=xM=x
+"Lemon, etc., Citrus",black citrus swallowtail,Papilio polytes L.,Lepidoptera,Papilionidae,B=xY=xM=x
+"Lemon, etc., Citrus",black parlatoria scale,Parlatoria zizyphus (Lucas),Homoptera,Diaspididae,B=xT=nP=x
+"Lemon, etc., Citrus",black scale,Saissetia  ?oleae (Bernard),Homoptera,Coccidae,B=xT=xM=x
+"Lemon, etc., Citrus",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Lemon, etc., Citrus",california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+"Lemon, etc., Citrus",carmine spider mite,Tetranychus cinnabarinus (Boisd.),Acari,Tetranychidae,M=x
+"Lemon, etc., Citrus",chaff scale,Parlatoria pergandii Comstock,Homoptera,Diaspididae,T=xP=x
+"Lemon, etc., Citrus",citrus bark borer,Agrilus occipitalis (Eschscholtz),Coleoptera,Buprestidae,M=x
+"Lemon, etc., Citrus",citrus flower moth,Prays citri Mill,Lepidoptera,Yponomeutidae,B=xY=xM=C
+"Lemon, etc., Citrus",citrus leaf miner,Phyllocnistis citrella Stainton,Lepidoptera,Phyllocnistidae,B=xY=nM=x
+"Lemon, etc., Citrus",citrus leaf mite,Eotetranychus cendanai Rimando,Acari,Tetranychidae,M=G
+"Lemon, etc., Citrus",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Lemon, etc., Citrus",citrus snow scale,Unaspis citri (Comstock),Homoptera,Diaspididae,P=x
+"Lemon, etc., Citrus",cloudywinged whitefly,Dialeurodes citrifolii (Morgan),Homoptera,Aleyrodidae,P=n
+"Lemon, etc., Citrus",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Lemon, etc., Citrus",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Lemon, etc., Citrus",cottony-cushion scale,Icerya purchasi Maskell,Homoptera,Margarodidae,M=G
+"Lemon, etc., Citrus",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Lemon, etc., Citrus",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Lemon, etc., Citrus",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Lemon, etc., Citrus",false yellow scale,Aonidiella comperei Mckenzie,Homoptera,Diaspididae,B=xY=xT=xM=x
+"Lemon, etc., Citrus",florida red scale,Chrysomphalus aonidum (L.),Homoptera,Diaspididae,P=x
+"Lemon, etc., Citrus",florida wax scale,Ceroplastes floridensis Comstock,Homoptera,Coccidae,B=xP=xM=x
+"Lemon, etc., Citrus",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Lemon, etc., Citrus",fruitfly,Dacus frauenfeldi Schiner,Diptera,Tephritidae,B=xY=xT=xP=xK=x
+"Lemon, etc., Citrus",glover scale,Lepidosaphes gloverii (Packard),Homoptera,Diaspididae,Y=nT=xP=xM=S
+"Lemon, etc., Citrus",green citrus aphid,Aphis citricola van der Goot,Homoptera,Aphididae,M=G?
+"Lemon, etc., Citrus",green mealybug,Pseudococcus citriculus Green,Homoptera,Pseudococcidae,B=xP=x
+"Lemon, etc., Citrus",green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+"Lemon, etc., Citrus",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Lemon, etc., Citrus",inornate scale,Aonidiella inornata Mackenzie,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Lemon, etc., Citrus",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Lemon, etc., Citrus",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Lemon, etc., Citrus",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Lemon, etc., Citrus",litchi fruit moth,Cryptophlebia ombrodelta (Lower),Lepidoptera,Tortricidae,B=xM=x
+"Lemon, etc., Citrus",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Lemon, etc., Citrus",long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+"Lemon, etc., Citrus",mango flower beetle,Protaetia fusca (Herbst),Coleoptera,Scarabaeidae,M=G
+"Lemon, etc., Citrus",mealybug,Pseudococcus trukensis Beardsley,Homoptera,Pseudococcidae,T=xP=x
+"Lemon, etc., Citrus",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Lemon, etc., Citrus",orange spiny whitefly,Aleurocanthus spiniferus (Quaintance),Homoptera,Aleyrodidae,Y=nT=xP=nK=nM=x
+"Lemon, etc., Citrus",orange tip moth,Adoxophyes fasciculana (Walker),Lepidoptera,Tortricidae,K=x
+"Lemon, etc., Citrus",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Lemon, etc., Citrus",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Lemon, etc., Citrus",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Lemon, etc., Citrus",purple scale,Lepidosaphes beckii (Newman),Homoptera,Diaspididae,T=xP=xM=G
+"Lemon, etc., Citrus",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Lemon, etc., Citrus",scale,Abgrallaspis palmae (Cockerell),Homoptera,Diaspididae,K=x
+"Lemon, etc., Citrus",scale,Aspidiotus excisus Green,Homoptera,Diaspididae,B=xM=C
+"Lemon, etc., Citrus",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Lemon, etc., Citrus",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Lemon, etc., Citrus",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Lemon, etc., Citrus",spiralling whitefly,Aleurodicus dispersus Russell,Homoptera,Aleyrodidae,B=nP=nM=x
+"Lemon, etc., Citrus",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Lemon, etc., Citrus",stellate scale,Vinsonia stellifera Westwood,Homoptera,Coccidae,B=xY=nP=xK=n
+"Lemon, etc., Citrus",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Lemon, etc., Citrus",tortricid moth,Cryptophlebia peltastica (Meyrick),Lepidoptera,Tortricidae,M=G
+"Lemon, etc., Citrus",tropical grey chaff scale,Parlatoria cinerea Hadden,Homoptera,Diaspididae,M=x
+"Lemon, etc., Citrus",weevil,Daealus sp. ,Coleoptera,Curculionidae,M=C
+"Lemon, etc., Citrus",wood borer,Chrysobothris costata Kerremans,Coleoptera,Buprestidae,M=G
+"Lemon, etc., Citrus",woolly whitefly,Aleurothrixus floccosus (Maskell),Homoptera,Aleyrodidae,M=G
+"Maize or corn, Zea mays",asian corn borer,Ostrinia furnacalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Maize or corn, Zea mays",brown-winged short-horned grasshopper ,Aiolopus thalassinus dubius Willemse,Orthoptera,Acrididae,M=x
+"Maize or corn, Zea mays",chafer beetle,Anomala sulcatula Burmeister,Coleoptera,Scarabaeidae,M=x
+"Maize or corn, Zea mays",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Maize or corn, Zea mays",corn delphacid,Peregrinus maidis (Ashmead),Homoptera,Delphacidae,B=xY=xM=x
+"Maize or corn, Zea mays","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Maize or corn, Zea mays",corn leaf aphid,Rhopalosiphum maidis (Fitch),Homoptera,Aphididae,B=xY=xT=xP=xM=x
+"Maize or corn, Zea mays",evening brown butterfly,Melanitis leda (L.),Lepidoptera,Satyridae,B=xY=xT=xP=xK=xM=x
+"Maize or corn, Zea mays",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Maize or corn, Zea mays",japanese grasshopper,Oxya japonica (Thunberg),Orthoptera,Acrididae,B=nM=C
+"Maize or corn, Zea mays",javanese grasshopper,Valanga nigricornis (Burmeister),Orthoptera,Acrididae,B=xY=xT=x
+"Maize or corn, Zea mays",large short-horn grasshopper ,Valanga excavata Stål,Orthoptera,Acrididae,M=x
+"Maize or corn, Zea mays",lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+"Maize or corn, Zea mays",leafhopper,Cicadulina bipunctella (Matsumura),Homoptera,Cicadellidae,B=xY=xM=x
+"Maize or corn, Zea mays",long-horned grasshopper,Conocephalus longipennis (Haan),Orthoptera,Tettigoniidae,T=xP=xK=xM=x
+"Maize or corn, Zea mays",maize leafminer,Pseudonapomyza spicata (Malloch),Diptera,Agromyzidae,B=xY=xP=?M=x
+"Maize or corn, Zea mays",maize leafroller,Marasmia trapezalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Maize or corn, Zea mays",mango flower beetle,Protaetia fusca (Herbst),Coleoptera,Scarabaeidae,M=G
+"Maize or corn, Zea mays",migratory locust,Locusta migratoria manilensis (Meyen),Orthoptera,Acrididae,M=x
+"Maize or corn, Zea mays",mindanao June beetle,Phyllophaga bipunctata (Brenske),Coleoptera,Scarabaeidae,M=G
+"Maize or corn, Zea mays",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Maize or corn, Zea mays",oriental flower beetle,Protaetia orientalis (Gory &amp; Percheron),Coleoptera,Scarabaeidae,M=G
+"Maize or corn, Zea mays",pink sugarcane mealybug,Saccharicoccus sacchari (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Maize or corn, Zea mays",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Maize or corn, Zea mays",rice weevil,Sitophilus oryzae (L.),Coleoptera,Curculionidae,M=G
+"Maize or corn, Zea mays",smaller rice grasshopper,Oxya hyla Audinet-Serville,Orthoptera,Acrididae,Y=nT=nP=nK=n
+"Maize or corn, Zea mays",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Maize or corn, Zea mays",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Maize or corn, Zea mays",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Maize or corn, Zea mays",sweetpotato yellow bug,Creontiades pallidifer (Walker),Hemiptera,Miridae,B=xY=xT=xP=xM=x
+"Mango, Mangifera indica",acuminate scale,Kilifia acuminata (Signoret),Homoptera,Coccidae,"M=G,R"
+"Mango, Mangifera indica",black thread scale,Ischnaspis longirostris (Signoret),Homoptera,Diaspididae,B=xM=G
+"Mango, Mangifera indica",brown pineapple scale,Melanaspis bromeliae (Leonardi),Homoptera,Diaspididae,P=xM=G
+"Mango, Mangifera indica",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Mango, Mangifera indica",coccid scale,Coccus moestus De Lotto,Homoptera,Coccidae,B=xT=xM=x
+"Mango, Mangifera indica",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Mango, Mangifera indica",cottony-cushion scale,Icerya purchasi Maskell,Homoptera,Margarodidae,M=G
+"Mango, Mangifera indica",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Mango, Mangifera indica",derbid planthopper,Lamenia caliginea Stål,Homoptera,Derbidae,B=xY=xT=xP=xK=xM=x
+"Mango, Mangifera indica",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Mango, Mangifera indica",florida red scale,Chrysomphalus aonidum (L.),Homoptera,Diaspididae,P=x
+"Mango, Mangifera indica",florida wax scale,Ceroplastes floridensis Comstock,Homoptera,Coccidae,B=xP=xM=x
+"Mango, Mangifera indica",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Mango, Mangifera indica",fruitfly,Dacus frauenfeldi Schiner,Diptera,Tephritidae,B=xY=xT=xP=xK=x
+"Mango, Mangifera indica",green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+"Mango, Mangifera indica",green shield scale,Chloropulvinaria psidii Maskell,Homoptera,Coccidae,B=xT=xP=xK=xM=x
+"Mango, Mangifera indica",greenhouse thrips,Heliothrips haemorrhoidalis (Bouché),Thysanoptera,Thripidae,M=G
+"Mango, Mangifera indica",inday scale,Phenacaspis inday (Banks),Homoptera,Diaspididae,B=xY=xM=G
+"Mango, Mangifera indica",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Mango, Mangifera indica",long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+"Mango, Mangifera indica",mango flower beetle,Protaetia fusca (Herbst),Coleoptera,Scarabaeidae,M=G
+"Mango, Mangifera indica",mango leaf beetle,Rhyparida carolina Chujo,Coleoptera,Chrysomelidae,T=xP=xK=x
+"Mango, Mangifera indica",mango scale,Radionaspis indica (Marlatt),Homoptera,Diaspididae,B=x
+"Mango, Mangifera indica",mango seed weevil,Sternochetus mangiferae (F.),Coleoptera,Curculionidae,M=C
+"Mango, Mangifera indica",mango shoot caterpillar,Penicillaria jocosatrix Guenée,Lepidoptera,Noctuidae,T=nP=nM=G
+"Mango, Mangifera indica",mango shoot looper,Anisodes illepidaria Guenée,Lepidoptera,Geometridae,M=G
+"Mango, Mangifera indica",mango soft scale,Coccus mangiferae (Green),Homoptera,Coccidae,B=x
+"Mango, Mangifera indica",oleander pit scale,Asterolecanium pustulans (Cockerell),Homoptera,Asterolecaniidae,B=xT=xM=G
+"Mango, Mangifera indica",oriental flower beetle,Protaetia orientalis (Gory &amp; Percheron),Coleoptera,Scarabaeidae,M=G
+"Mango, Mangifera indica",palm scale,Hemiberlesia palmae (Cockerell),Homoptera,Diaspididae,B=xY=xT=YP=xK=xM=x
+"Mango, Mangifera indica",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Mango, Mangifera indica",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Mango, Mangifera indica",red wax scale,Ceroplastes rubens Maskell,Homoptera,Coccidae,B=xY=nM=x
+"Mango, Mangifera indica",redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+"Mango, Mangifera indica",scale,Aspidiotus spinosus Comstock,Homoptera,Diaspididae,Y=x
+"Mango, Mangifera indica",scale,Kilifia deltoides DeLotto,Homoptera,Coccidae,B=x
+"Mango, Mangifera indica",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Mango, Mangifera indica",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Mango, Mangifera indica",scale,Semelaspidus mangiferae Takahashi,Homoptera,Diaspididae,B=x
+"Mango, Mangifera indica",seed weevil,Cryptorhynchus mangiferae (F.),Coleoptera,Curculionidae,M=G
+"Mango, Mangifera indica",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Mango, Mangifera indica",spiralling whitefly,Aleurodicus dispersus Russell,Homoptera,Aleyrodidae,B=nP=nM=x
+"Mango, Mangifera indica",stellate scale,Vinsonia stellifera Westwood,Homoptera,Coccidae,B=xY=nP=xK=n
+"Mango, Mangifera indica",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Mango, Mangifera indica",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Mango, Mangifera indica",tortricid moth,Dudua aprobola (Meyrick),Lepidoptera,Tortricidae,K=xM=x
+"Mango, Mangifera indica",tropical grey chaff scale,Parlatoria cinerea Hadden,Homoptera,Diaspididae,M=x
+"Mango, Mangifera indica",white scale,Pinnaspis sp. ,Homoptera,Diaspididae,M=G
+"Mountain apple, Eugenia malaccensis",eugenia psyllid,Trioza vitiensis Kirkaldy,Homoptera,Psyllidae,B=xT=?P=x
+"Mountain apple, Eugenia malaccensis",fruitfly,Dacus frauenfeldi Schiner,Diptera,Tephritidae,B=xY=xT=xP=xK=x
+"Mountain apple, Eugenia malaccensis",ochrosia fruit fly,Dacus ochrosiae Malloch,Diptera,Tephritidae,M=x
+"Okra, Abelmoschus esculentus",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Okra, Abelmoschus esculentus",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Okra, Abelmoschus esculentus",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Okra, Abelmoschus esculentus",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Okra, Abelmoschus esculentus",hibiscus caterpillar,Anomis flava (F.),Lepidoptera,Noctuidae,B=xY=xM=x
+"Okra, Abelmoschus esculentus",hibiscus psyllid,Mesohomotoma hibisci (Froggatt),Homoptera,Psyllidae,B=xY=xP=xK=xM=x
+"Okra, Abelmoschus esculentus",indian cotton jassid,Sundapteryx biguttula (Ishida),Homoptera,Cicadellidae,B=?M=GS
+"Okra, Abelmoschus esculentus",okra caterpillar,Anomis erosa Hübner,Lepidoptera,Noctuidae,B=xY=xM=?
+"Okra, Abelmoschus esculentus",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Okra, Abelmoschus esculentus",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Okra, Abelmoschus esculentus",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Okra, Abelmoschus esculentus",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Okra, Abelmoschus esculentus",spotted or cotton bollworm? ,Earias vitella (F.),Lepidoptera,Noctuidae,B=xM=?
+"Okra, Abelmoschus esculentus",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Okra, Abelmoschus esculentus",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Okra, Abelmoschus esculentus",white-banded grasshopper,Stenocatantops splendens (Thunberg),Orthoptera,Acrididae,M=G
+"Onion, Allium cepa",cacao armyworm,Tiracola plagiata (Walker),Lepidoptera,Noctuidae,M=x
+"Onion, Allium cepa",carmine spider mite,Tetranychus cinnabarinus (Boisd.),Acari,Tetranychidae,M=x
+"Onion, Allium cepa",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Onion, Allium cepa",grasshopper,Atractomorpha psittacina Haan,Orthoptera,Pyrgomorphidae,M=G
+"Onion, Allium cepa",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Onion, Allium cepa",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Onion, Allium cepa",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Onion, Allium cepa",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Onion, Allium cepa",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Papaya, Carica papaya",bisect papaya fruitfly,Hendelina bisecta Hardy &amp; Adachi,Diptera,Tephritidae,M=x
+"Papaya, Carica papaya",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Papaya, Carica papaya",carmine spider mite,Tetranychus cinnabarinus (Boisd.),Acari,Tetranychidae,M=x
+"Papaya, Carica papaya",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Papaya, Carica papaya",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Papaya, Carica papaya",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Papaya, Carica papaya",cottony-cushion scale,Icerya purchasi Maskell,Homoptera,Margarodidae,M=G
+"Papaya, Carica papaya",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Papaya, Carica papaya",false yellow scale,Aonidiella comperei Mckenzie,Homoptera,Diaspididae,B=xY=xT=xM=x
+"Papaya, Carica papaya",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Papaya, Carica papaya",lemniscate papaya fruitfly,Euphranta lemniscata (Enderlen),Diptera,Tephritidae,M=C
+"Papaya, Carica papaya",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Papaya, Carica papaya",mirid,Fulvius angustatus Usinger,Hemiptera,Miridae,M=x
+"Papaya, Carica papaya",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Papaya, Carica papaya",orange tip moth,Adoxophyes fasciculana (Walker),Lepidoptera,Tortricidae,K=x
+"Papaya, Carica papaya",oriental flower beetle,Protaetia orientalis (Gory &amp; Percheron),Coleoptera,Scarabaeidae,M=G
+"Papaya, Carica papaya",redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+"Papaya, Carica papaya",scale,Aspidiotus excisus Green,Homoptera,Diaspididae,B=xM=C
+"Papaya, Carica papaya",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Papaya, Carica papaya",spider mite,Tetranychus truncatus Ehara,Acari,Tetranychidae,M=G
+"Papaya, Carica papaya",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Pineapple, Ananas comosus",boisduval scale,Diaspis boisduvalii Signoret,Homoptera,Diaspididae,B=x
+"Pineapple, Ananas comosus",brown pineapple scale,Melanaspis bromeliae (Leonardi),Homoptera,Diaspididae,P=xM=G
+"Pineapple, Ananas comosus",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Pineapple, Ananas comosus",grey pineapple mealybug,Dysmicoccus neobrevipes Beardsley,Homoptera,Pseudococcidae,M=x
+"Pineapple, Ananas comosus",long-tailed mealybug,Pseudococcus longispinus (Targioni-Tozzetti),Homoptera,Pseudococcidae,T=?
+"Pineapple, Ananas comosus",oceanic field cricket,Teleogryllus oceanicus (Le Guill.),Orthoptera,Gryllidae,M=G
+"Pineapple, Ananas comosus",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Pineapple, Ananas comosus",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Pineapple, Ananas comosus",pineapple scale,Diaspis bromeliae (Kerner),Homoptera,Diaspididae,P=xM=x
+"Pineapple, Ananas comosus",white-banded grasshopper,Stenocatantops splendens (Thunberg),Orthoptera,Acrididae,M=G
+"Pomegranate, Punica granatum",castor semilooper,Achaea janata (L.),Lepidoptera,Noctuidae,M=G
+"Pomegranate, Punica granatum",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Pomegranate, Punica granatum",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Pomegranate, Punica granatum",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Potato, Solanum tuberosum",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Potato, Solanum tuberosum",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Potato, Solanum tuberosum",corn leaf aphid,Rhopalosiphum maidis (Fitch),Homoptera,Aphididae,B=xY=xT=xP=xM=x
+"Potato, Solanum tuberosum",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Potato, Solanum tuberosum",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Potato, Solanum tuberosum",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Potato, Solanum tuberosum",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Potato, Solanum tuberosum",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Potato, Solanum tuberosum",philippine lady beetle,Epilachna vigintisexpunctata philippensis (Dieke),Coleoptera,Coccinellidae,Y=?K=x
+"Potato, Solanum tuberosum",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Potato, Solanum tuberosum",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Potato, Solanum tuberosum",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Potato, Solanum tuberosum",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Potato, Solanum tuberosum",tobacco flea beetle,Epitrix hirtipennis (Melsheimer),Coleoptera,Chrysomelidae,M=G
+"Potato, Solanum tuberosum",turnip aphid,Lipaphis erysimi (Kaltenbach),Homoptera,Aphididae,M=x
+"Potato, Solanum tuberosum",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Radish, Raphanus sativus",cabbage cluster caterpillar,Crocidolomia binotalis Zeller,Lepidoptera,Pyralidae,B=xM=x
+"Radish, Raphanus sativus",diamondback moth,Plutella xylostella (L.),Lepidoptera,Yponomeutidae,B=nM=x
+"Radish, Raphanus sativus",oriental cabbage webworm,Hellula undalis (F.),Lepidoptera,Pyralidae,B=xM=GC?
+"Radish, Raphanus sativus",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Radish, Raphanus sativus",turnip aphid,Lipaphis erysimi (Kaltenbach),Homoptera,Aphididae,M=x
+"Red and Bell pepper, etc., Capsicum",asian corn borer,Ostrinia furnacalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Red and Bell pepper, etc., Capsicum",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Red and Bell pepper, etc., Capsicum","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Red and Bell pepper, etc., Capsicum",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Red and Bell pepper, etc., Capsicum",green peach aphid,Myzus persicae (Sulzer),Homoptera,Aphididae,M=S
+"Red and Bell pepper, etc., Capsicum",melon thrips,Thrips palmi Karny,Thysanoptera,Thripidae,Y=nM=G
+"Red and Bell pepper, etc., Capsicum",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Red and Bell pepper, etc., Capsicum",philippine lady beetle,Epilachna vigintisexpunctata philippensis (Dieke),Coleoptera,Coccinellidae,Y=?K=x
+"Red and Bell pepper, etc., Capsicum",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Red and Bell pepper, etc., Capsicum",planthopper,Chloriona formosella (Matsumura),Homoptera,Delphacidae,Y=xM=x
+"Red and Bell pepper, etc., Capsicum",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Red and Bell pepper, etc., Capsicum",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Red and Bell pepper, etc., Capsicum",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Red and Bell pepper, etc., Capsicum",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Red and Bell pepper, etc., Capsicum",white peach scale,Pseudaulacaspis pentagona (Targioni-Tozzetti),Homoptera,Diaspididae,B=xT=xM=x
+"Rice, Oryza sativa",brown rice planthopper,Nilaparvata lugens (Stål),Homoptera,Delphacidae,B=xY=x
+"Rice, Oryza sativa",brown-winged short-horned grasshopper ,Aiolopus thalassinus dubius Willemse,Orthoptera,Acrididae,M=x
+"Rice, Oryza sativa",evening brown butterfly,Melanitis leda (L.),Lepidoptera,Satyridae,B=xY=xT=xP=xK=xM=x
+"Rice, Oryza sativa",geometric noctuid,Grammarodes geometrica (F.),Lepidoptera,Noctuidae,M=G
+"Rice, Oryza sativa",grass planthopper,Sogatella furcifera (Horváth),Homoptera,Delphacidae,B=xP=xM=G
+"Rice, Oryza sativa",grasshopper,Euconocephalus nasutus (Thunberg),Orthoptera,Tettigoniidae,Y=xM=x
+"Rice, Oryza sativa",green rice leafhopper,Nephotettix apicalis (Motschulsky),Homoptera,Cicadellidae,B=xY=xM=x
+"Rice, Oryza sativa",japanese grasshopper,Oxya japonica (Thunberg),Orthoptera,Acrididae,B=nM=C
+"Rice, Oryza sativa",lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+"Rice, Oryza sativa",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Rice, Oryza sativa",long-horned grasshopper,Conocephalus longipennis (Haan),Orthoptera,Tettigoniidae,T=xP=xK=xM=x
+"Rice, Oryza sativa",migratory locust,Locusta migratoria manilensis (Meyen),Orthoptera,Acrididae,M=x
+"Rice, Oryza sativa",mirid,Orthotylellus pallescens Usinger,Homoptera,Miridae,B=xP=xM=x
+"Rice, Oryza sativa",mirid,Proboscidocoris malayus Reuter,Homoptera,Miridae,M=G
+"Rice, Oryza sativa",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Rice, Oryza sativa",philippine katydid,Phaneroptera furcifera Stål,Orthoptera,Tettigoniidae,P=xM=x
+"Rice, Oryza sativa",pink sugarcane mealybug,Saccharicoccus sacchari (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Rice, Oryza sativa",rice armyworm,Mythimna loreyi (Duponchel),Lepidoptera,Noctuidae,M=G
+"Rice, Oryza sativa",rice bug,Leptocorixa acuta (Thunberg),Hemiptera,Alydidae,B=xY=xT=xM=x
+"Rice, Oryza sativa",rice caseworm,Nymphula fluctuosalis Zeller,Lepidoptera,Pyralidae,M=G
+"Rice, Oryza sativa",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Rice, Oryza sativa",rice leafroller,Susumia exigua (Butler),Lepidoptera,Pyralidae,M=x
+"Rice, Oryza sativa",smaller rice grasshopper,Oxya hyla Audinet-Serville,Orthoptera,Acrididae,Y=nT=nP=nK=n
+"Rice, Oryza sativa",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Rice, Oryza sativa",thrips,Bolacidothrips orizae Moulton,Thysanoptera,Thripidae,M=G
+"Roses, Rosa",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Roses, Rosa",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Roses, Rosa",mango flower beetle,Protaetia fusca (Herbst),Coleoptera,Scarabaeidae,M=G
+"Roses, Rosa",orange spiny whitefly,Aleurocanthus spiniferus (Quaintance),Homoptera,Aleyrodidae,Y=nT=xP=nK=nM=x
+"Roses, Rosa",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Screw pine, Pandanus",armored scale,Lepidosaphes esakii Takahashi,Homoptera,Diaspididae,T=xP=xK=xM=x
+"Screw pine, Pandanus",black thread scale,Ischnaspis longirostris (Signoret),Homoptera,Diaspididae,B=xM=G
+"Screw pine, Pandanus",boisduval scale,Diaspis boisduvalii Signoret,Homoptera,Diaspididae,B=x
+"Screw pine, Pandanus",california red scale,Aonidiella aurantii (Maskell),Homoptera,Diaspididae,B=?T=?M=?
+"Screw pine, Pandanus",chaff scale,Parlatoria pergandii Comstock,Homoptera,Diaspididae,T=xP=x
+"Screw pine, Pandanus",coconut red scale,Furcaspis oceanica Lindinger,Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Screw pine, Pandanus",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Screw pine, Pandanus",denticulate stick insect,Acanthograeffea denticulata (Redtenbacher),Phasmatodea,Phasmatidae,M=x
+"Screw pine, Pandanus",derbid planthopper,Nesorhamma chalcas Fennah,Homoptera,Derbidae,B=x
+"Screw pine, Pandanus",dictyospermum scale,Chrysomphalus dictyospermi (Morgan),Homoptera,Diaspididae,B=xT=xM=x
+"Screw pine, Pandanus",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Screw pine, Pandanus",esaki mealybug,Pandanicola esakii (Takahashi),Homoptera,Pseudococcidae,B=x
+"Screw pine, Pandanus",forest tree termite,Neotermes connexus Snyder,Isoptera,Kalotermitidae,M=x
+"Screw pine, Pandanus",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Screw pine, Pandanus",leafhopper,Batrachomorphus atrifrons (Metcalf),Homoptera,Cicadellidae,M=x
+"Screw pine, Pandanus",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Screw pine, Pandanus",mango leaf beetle,Rhyparida carolina Chujo,Coleoptera,Chrysomelidae,T=xP=xK=x
+"Screw pine, Pandanus",mealybug,Neosimmondsia esakii Takahashi,Homoptera,Pseudococcidae,P=x
+"Screw pine, Pandanus",mealybug,Pandanicola pandani (Takahashi),Homoptera,Pseudococcidae,P=x
+"Screw pine, Pandanus",mealybug,Pseudococcus microadonidum Beardsley,Homoptera,Pseudococcidae,T=xP=x
+"Screw pine, Pandanus",mealybug,Pseudococcus pandanicola Takahashi,Homoptera,Pseudococcidae,B=x
+"Screw pine, Pandanus",mealybug,Turbinococcus pandanicola (Takahashi),Homoptera,Pseudococcidae,B=x
+"Screw pine, Pandanus",moth,Trissodoris guamensis Busck,Lepidoptera,Cosmopterigidae,M=x
+"Screw pine, Pandanus",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Screw pine, Pandanus",orchid mealybug,Pseudococcus orchidicola Takahashi,Homoptera,Pseudococcidae,T=xK=xM=C
+"Screw pine, Pandanus",pandanus beetle,Oxycephala pandani Gressitt,Coleoptera,Chrysomelidae,B=x
+"Screw pine, Pandanus",pandanus mealybug,Laminicoccus pandani (Cockerell),Homoptera,Pseudococcidae,T=xP=x
+"Screw pine, Pandanus",pandanus stick insect,Megacrania batesii Kirby,Orthoptera,Phasmatidae,K=x
+"Screw pine, Pandanus",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Screw pine, Pandanus",planthopper,Armacia clara Stål,Homoptera,Ricaniidae,P=x
+"Screw pine, Pandanus",planthopper,Capelopterum punctatellum ? Melichar,Homoptera,Issidae,M=x
+"Screw pine, Pandanus",planthopper,Myndus bifurcatus Metcalf,Homoptera,Cixiidae,M=x
+"Screw pine, Pandanus",planthopper,Myndus dibaphus Fennah,Homoptera,Cixiidae,T=xM=x
+"Screw pine, Pandanus",planthopper,Myndus irreptor Fennah,Homoptera,Cixiidae,M=x
+"Screw pine, Pandanus",planthopper,Myndus palawanensis Muir,Homoptera,Cixiidae,M=x
+"Screw pine, Pandanus",planthopper,Swezeyaria viridana Metcalf,Homoptera,Tropiduchidae,T=xP=xK=xM=G
+"Screw pine, Pandanus",proteus scale,Parlatoria proteus (Curtis),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=G
+"Screw pine, Pandanus",scale,Paralecanium carolinensis Beardsley,Homoptera,Coccidae,T=x
+"Screw pine, Pandanus",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Screw pine, Pandanus",spaeth pandanus beetle,Oxycephala spaethi (Chujo),Coleoptera,Chrysomelidae,B=x
+"Screw pine, Pandanus",ti scale,Pinnaspis buxi (Bouché),Homoptera,Diaspididae,P=xM=G
+"Sea grape, Coccoloba",spiralling whitefly,Aleurodicus dispersus Russell,Homoptera,Aleyrodidae,B=nP=nM=x
+"Sea grape, Coccoloba",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Sorghum, Sorghum bicolor",asian corn borer,Ostrinia furnacalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Sorghum, Sorghum bicolor",coconut weevil,Diocalandra frumenti (F.),Coleoptera,Curculionidae,B=xT=xM=G
+"Sorghum, Sorghum bicolor",corn delphacid,Peregrinus maidis (Ashmead),Homoptera,Delphacidae,B=xY=xM=x
+"Sorghum, Sorghum bicolor","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Sorghum, Sorghum bicolor",corn leaf aphid,Rhopalosiphum maidis (Fitch),Homoptera,Aphididae,B=xY=xT=xP=xM=x
+"Sorghum, Sorghum bicolor",evening brown butterfly,Melanitis leda (L.),Lepidoptera,Satyridae,B=xY=xT=xP=xK=xM=x
+"Sorghum, Sorghum bicolor",gray sugarcane mealybug,Dysmicoccus boninsis (Kuwana),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Sorghum, Sorghum bicolor",maize leafminer,Pseudonapomyza spicata (Malloch),Diptera,Agromyzidae,B=xY=xP=?M=x
+"Sorghum, Sorghum bicolor",maize leafroller,Marasmia trapezalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Sorghum, Sorghum bicolor",migratory locust,Locusta migratoria manilensis (Meyen),Orthoptera,Acrididae,M=x
+"Sorghum, Sorghum bicolor",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Sorghum, Sorghum bicolor",pink sugarcane mealybug,Saccharicoccus sacchari (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Sorghum, Sorghum bicolor",rice bug,Leptocorixa acuta (Thunberg),Hemiptera,Alydidae,B=xY=xT=xM=x
+"Sorghum, Sorghum bicolor",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Sorghum, Sorghum bicolor",rice weevil,Sitophilus oryzae (L.),Coleoptera,Curculionidae,M=G
+"Sorghum, Sorghum bicolor",sugarcane whitefly,Neomaskellia bergii (Signoret),Homoptera,Aleyrodidae,B=xY=xT=xP=xK=xM=G
+"Soursop, sweetsop, Annona",black scale,Saissetia  ?oleae (Bernard),Homoptera,Coccidae,B=xT=xM=x
+"Soursop, sweetsop, Annona",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Soursop, sweetsop, Annona",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Soursop, sweetsop, Annona",green scale,Coccus viridis (Green),Homoptera,Coccidae,B=xY=xT=xP=xK=nM=x
+"Soursop, sweetsop, Annona",green shield scale,Chloropulvinaria psidii Maskell,Homoptera,Coccidae,B=xT=xP=xK=xM=x
+"Soursop, sweetsop, Annona",green tropiduchid,Kallitaxila crini (Matsumura),Homoptera,Tropiduchidae,M=G
+"Soursop, sweetsop, Annona",hemispherical scale,Saissetia coffeae (Walker),Homoptera,Coccidae,B=xY=xT=xP=xM=x
+"Soursop, sweetsop, Annona",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Soursop, sweetsop, Annona",long brown scale,Coccus longulus (Douglas),Homoptera,Coccidae,B=xM=x
+"Soursop, sweetsop, Annona",nigra scale,Saissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Soursop, sweetsop, Annona",palau scale,Lepidosaphes palauensis Beardsley,Homoptera,Diaspididae,B=xM=G
+"Soursop, sweetsop, Annona",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Soursop, sweetsop, Annona",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Soursop, sweetsop, Annona",scale,Lepidosaphes similis Beardsley,Homoptera,Diaspididae,B=xY=xP=xM=x
+"Soursop, sweetsop, Annona",scale,Semelaspidus mangiferae Takahashi,Homoptera,Diaspididae,B=x
+"Soursop, sweetsop, Annona",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Soursop, sweetsop, Annona",tessellated scale,Eucalymnatus tessellatus (Signoret),Homoptera,Coccidae,B=xY=nT=xP=xK=x
+"Sugar cane, Saccharum officinarum",asian corn borer,Ostrinia furnacalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Sugar cane, Saccharum officinarum",chafer beetle,Anomala sulcatula Burmeister,Coleoptera,Scarabaeidae,M=x
+"Sugar cane, Saccharum officinarum",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Sugar cane, Saccharum officinarum",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Sugar cane, Saccharum officinarum",darkling beetle,Gonocephalum sp. ,Coleoptera,Tenebrionidae,M=G
+"Sugar cane, Saccharum officinarum",delphacid planthopper,Ugyops annulipes (Stål),Homoptera,Delphacidae,M=x
+"Sugar cane, Saccharum officinarum",erect-winged blue plant hopper ,Proutista moesta (Westwood),Homoptera,Derbidae,B=xP=nM=x
+"Sugar cane, Saccharum officinarum",evening brown butterfly,Melanitis leda (L.),Lepidoptera,Satyridae,B=xY=xT=xP=xK=xM=x
+"Sugar cane, Saccharum officinarum",grass snout hopper,Chanithus gramineus (F.),Homoptera,Dictyopharidae,B=xY=xM=x
+"Sugar cane, Saccharum officinarum",grasshopper,Atractomorpha psittacina Haan,Orthoptera,Pyrgomorphidae,M=G
+"Sugar cane, Saccharum officinarum",japanese grasshopper,Oxya japonica (Thunberg),Orthoptera,Acrididae,B=nM=C
+"Sugar cane, Saccharum officinarum",lawn armyworm,Spodoptera mauritia Guenée,Lepidoptera,Noctuidae,M=x
+"Sugar cane, Saccharum officinarum",maize leafroller,Marasmia trapezalis (Guenée),Lepidoptera,Pyralidae,B=xM=x
+"Sugar cane, Saccharum officinarum",migratory locust,Locusta migratoria manilensis (Meyen),Orthoptera,Acrididae,M=x
+"Sugar cane, Saccharum officinarum",new guinea sugarcane weevil,Rhabdoscelus obscurus (Boisduval),Coleoptera,Curculionidae,B=xM=x
+"Sugar cane, Saccharum officinarum",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Sugar cane, Saccharum officinarum",pink sugarcane mealybug,Saccharicoccus sacchari (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Sugar cane, Saccharum officinarum",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Sugar cane, Saccharum officinarum",rufous sugarcane beetle,Anoronotum rufum Arrow,Coleoptera,Scarabaeidae,B=x
+"Sugar cane, Saccharum officinarum",scale,Aulacaspis madiunensis (Zehntner),Homoptera,Diaspididae,B=xY=x
+"Sugar cane, Saccharum officinarum",scale,Aulacaspis tegalensis (Zehntner),Homoptera,Diaspididae,Y=x
+"Sugar cane, Saccharum officinarum",scale,Odonaspis saccharicaulis (Zehntner),Homoptera,Diaspididae,B=x
+"Sugar cane, Saccharum officinarum",smaller rice grasshopper,Oxya hyla Audinet-Serville,Orthoptera,Acrididae,Y=nT=nP=nK=n
+"Sugar cane, Saccharum officinarum",strangulate weevil,Trochorhopalus strangulatus (Gyllenhal),Coleoptera,Curculionidae,B=x
+"Sugar cane, Saccharum officinarum",sugarcane leafhopper,Perkinsiella thompsoni Muir,Homoptera,Delphacidae,B=xY=xT=xM=x
+"Sugar cane, Saccharum officinarum",sugarcane scale,Aspidiella sacchari (Cockerell),Homoptera,Diaspididae,B=xM=x
+"Sugar cane, Saccharum officinarum",sugarcane whitefly,Neomaskellia bergii (Signoret),Homoptera,Aleyrodidae,B=xY=xT=xP=xK=xM=G
+"Sweet potato, Ipomoea batatas",black garden fleahopper,Halticus tibialis Reuter,Hemiptera,Miridae,B=xY=xT=xP=xK=xM=x
+"Sweet potato, Ipomoea batatas",black island stink bug,Brachyplatys insularis Ruckes,Hemiptera,Plataspididae,B=xY=nT=xP=nK=nM=x
+"Sweet potato, Ipomoea batatas",black island stink bug,Brachyplatys insularis Ruckes,Hemiptera,Plataspididae,B=xY=nT=xP=nK=nM=x
+"Sweet potato, Ipomoea batatas",blue moon butterfly,Hypolimnas bolina (L.),Lepidoptera,Nymphalidae,B=xY=xT=xP=xK=xM=x
+"Sweet potato, Ipomoea batatas",bug,Zanchius fragilis Usinger,Hemiptera,Miridae,M=x
+"Sweet potato, Ipomoea batatas",five-green-lined weevil,Nanyozo viridipictus (Blair),Coleoptera,Curculionidae,T=x
+"Sweet potato, Ipomoea batatas",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Sweet potato, Ipomoea batatas",green tortoise beetle,Metriona circumdata (Herbst),Coleoptera,Chrysomelidae,B=xY=nT=xP=nM=x
+"Sweet potato, Ipomoea batatas",hawk moth,Hippotion swinhoei (Moore),Lepidoptera,Sphingidae,M=G?
+"Sweet potato, Ipomoea batatas",island fleahopper,Halticus insularis Usinger,Hemiptera,Miridae,M=G
+"Sweet potato, Ipomoea batatas",large spined-footed bug,Physomerus grossipes (F.),Hemiptera,Coreidae,B=nM=x
+"Sweet potato, Ipomoea batatas",leaf beetle,Colasposoma metallicum Lefevre,Coleoptera,Chrysomelidae,M=x
+"Sweet potato, Ipomoea batatas",leaf blotch miner moth,Acrocercops sp. ,Lepidoptera,Gracillariidae,B=x?T=x?P=x?M=C
+"Sweet potato, Ipomoea batatas",leafhopper,Exitianus capicola (Stål),Homoptera,Cicadellidae,Y=xT=xP=xK=xM=x
+"Sweet potato, Ipomoea batatas",lygeid bug,Nysius pulchellus (Stål),Hemiptera,Lygaeidae,T=xK=xM=x
+"Sweet potato, Ipomoea batatas",meadow argus,Precis villida (F.),Lepidoptera,Nymphalidae,B=xT=xP=x
+"Sweet potato, Ipomoea batatas",melia tortricid,Adoxophyes melia Clarke,Lepidoptera,Tortricidae,M=x
+"Sweet potato, Ipomoea batatas",mole cricket,Gryllotalpa sp. ,Orthoptera,Gryllotalpidae,M=G
+"Sweet potato, Ipomoea batatas",nippon sweetpotato moth,Pachyzancla nipponalis (Walker),Lepidoptera,Pyralidae,B=x
+"Sweet potato, Ipomoea batatas",orange tip moth,Adoxophyes fasciculana (Walker),Lepidoptera,Tortricidae,K=x
+"Sweet potato, Ipomoea batatas",palau sweetpotato weevil,Sphaeropterus sp. ,Coleoptera,Curculionidae,B=x
+"Sweet potato, Ipomoea batatas",scale,Lepidosaphes sp. ,Homoptera,Diaspididae,M=G
+"Sweet potato, Ipomoea batatas",sweet potato hawk moth,Agrius convolvuli (L.),Lepidoptera,Sphingidae,B=xY=xT=xP=xM=x
+"Sweet potato, Ipomoea batatas",sweetpotato flea beetle,Chaetocnema confinis Crotch,Coleoptera,Chrysomelidae,M=G
+"Sweet potato, Ipomoea batatas",sweetpotato weevil,Cylas formicarius (F.),Coleoptera,Curculionidae,B=xY=xT=xM=x
+"Sweet potato, Ipomoea batatas",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Sweet potato, Ipomoea batatas",sweetpotato yellow bug,Creontiades pallidifer (Walker),Hemiptera,Miridae,B=xY=xT=xP=xM=x
+"Sweet potato, Ipomoea batatas",three-green-lined weevil,Nanyozo viridilineatus Kono,Coleoptera,Curculionidae,T=x
+"Sweet potato, Ipomoea batatas",weevil,Daealus sp. ,Coleoptera,Curculionidae,M=C
+"Sweet potato, Ipomoea batatas",weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+"Sweet potato, Ipomoea batatas",west indian sweetpotato weevil ,Euscepes postfasciatus (Fairmaîre),Coleoptera,Curculionidae,B=xY=?T=?P=xM=x
+"Taro (Colocasia), Colocasia esculenta",banana aphid,Pentalonia nigronervosa Coquerel,Homoptera,Aphididae,B=xY=xT=xP=xK=nM=x
+"Taro (Colocasia), Colocasia esculenta",brown pineapple scale,Melanaspis bromeliae (Leonardi),Homoptera,Diaspididae,P=xM=G
+"Taro (Colocasia), Colocasia esculenta",brown soft scale,Coccus hesperidum L.,Homoptera,Coccidae,B=xY=xT=xM=x
+"Taro (Colocasia), Colocasia esculenta",caroline scale,Lepidosaphes carolinensis Beardsley,Homoptera,Diaspididae,B=xY=x
+"Taro (Colocasia), Colocasia esculenta",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Taro (Colocasia), Colocasia esculenta",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Taro (Colocasia), Colocasia esculenta",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Taro (Colocasia), Colocasia esculenta",derbid planthopper,Lamenia caliginea Stål,Homoptera,Derbidae,B=xY=xT=xP=xK=xM=x
+"Taro (Colocasia), Colocasia esculenta",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Taro (Colocasia), Colocasia esculenta",narrow-winged sphinx moth,Theretra pinastrina (Martyn),Lepidoptera,Sphingidae,B=xY=xM=x
+"Taro (Colocasia), Colocasia esculenta",pineapple mealybug,Dysmicoccus brevipes (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Taro (Colocasia), Colocasia esculenta",pineapple scale,Diaspis bromeliae (Kerner),Homoptera,Diaspididae,P=xM=x
+"Taro (Colocasia), Colocasia esculenta",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Taro (Colocasia), Colocasia esculenta",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=C
+"Taro (Colocasia), Colocasia esculenta",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=x
+"Taro (Colocasia), Colocasia esculenta",steatococcus scale,Steatococcus samaraius Morrison,Homoptera,Margarodidae,B=xY=xM=G
+"Taro (Colocasia), Colocasia esculenta",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Taro (Colocasia), Colocasia esculenta",taro leafhopper,Tarophagus proserpina (Kirkaldy),Homoptera,Delphacidae,B=xY=xT=xP=xK=xM=x
+"Taro (Colocasia), Colocasia esculenta",taro sphinx-moth,Hippotion celerio (L.),Lepidoptera,Sphingidae,B=xM=x
+"Taro (Colocasia), Colocasia esculenta",weevil,Atactus deplanatus (Boheman),Coleoptera,Curculionidae,P=x
+"Taro (Colocasia), Colocasia esculenta",weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+"Taro (Cyrtosperma), Cyrtosperma",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Taro (Cyrtosperma), Cyrtosperma",mealybug,Pseudococcus macrocirculus Beardsley,Homoptera,Pseudococcidae,B=xY=x
+"Taro (Cyrtosperma), Cyrtosperma",orchid mealybug,Pseudococcus orchidicola Takahashi,Homoptera,Pseudococcidae,T=xK=xM=C
+"Taro (Cyrtosperma), Cyrtosperma",taro leafhopper,Tarophagus proserpina (Kirkaldy),Homoptera,Delphacidae,B=xY=xT=xP=xK=xM=x
+"Tomato, Lycopersicon esculentum",banana aphid,Pentalonia nigronervosa Coquerel,Homoptera,Aphididae,B=xY=xT=xP=xK=nM=x
+"Tomato, Lycopersicon esculentum",broad mite,Polyphagotarsonemus latus (Banks),Acari,Tarsonemidae,M=x
+"Tomato, Lycopersicon esculentum",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Tomato, Lycopersicon esculentum",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Tomato, Lycopersicon esculentum","corn earworm, tomato fruitworm",Heliothis zea (Boddie),Lepidoptera,Noctuidae,B=x?M=x?
+"Tomato, Lycopersicon esculentum",cotton or melon aphid,Aphis gossypii Glover,Homoptera,Aphididae,B=xY=xT=xP=xK=xM=x
+"Tomato, Lycopersicon esculentum",egyptian fluted scale,Icerya aegyptiaca (Douglas),Homoptera,Margarodidae,B=xY=xT=xP=xM=x
+"Tomato, Lycopersicon esculentum",fruit piercing moth,Eudocima (Othreis) fullonia (Clerck),Lepidoptera,Noctuidae,B=nP=nK=nM=x
+"Tomato, Lycopersicon esculentum",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Tomato, Lycopersicon esculentum",green leafhopper,Empoasca pitiensis Metcalf,Homoptera,Cicadellidae,M=?
+"Tomato, Lycopersicon esculentum",hibiscus caterpillar,Anomis flava (F.),Lepidoptera,Noctuidae,B=xY=xM=x
+"Tomato, Lycopersicon esculentum",leaf-footed plant bug,Leptoglossus australis (F.),Hemiptera,Coreidae,B=xP=xM=x
+"Tomato, Lycopersicon esculentum",leafhopper,Nesophrosyne argentatus (Evans),Homoptera,Cicadellidae,B=xY=xM=x
+"Tomato, Lycopersicon esculentum",mealybug,Phenacoccus madeirensis Green,Homoptera,Pseudococcidae,T=nP=nM=G
+"Tomato, Lycopersicon esculentum",melon fly,Dacus cucurbitae Coquillett,Diptera,Tephritidae,M=x
+"Tomato, Lycopersicon esculentum",old world bollworm,Heliothis armigera (Hübner),Lepidoptera,Noctuidae,M=x
+"Tomato, Lycopersicon esculentum",onion thrips,Thrips tabaci Lindeman,Thysanoptera,Thripidae,B=xY=xM=x
+"Tomato, Lycopersicon esculentum",philippine lady beetle,Epilachna vigintisexpunctata philippensis (Dieke),Coleoptera,Coccinellidae,Y=?K=x
+"Tomato, Lycopersicon esculentum",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Tomato, Lycopersicon esculentum",serpentine leafminer,Liriomyza trifolii (Burgess),Diptera,Agromyzidae,Y=nP=nM=GS?
+"Tomato, Lycopersicon esculentum",seychelles scale,Icerya seychellarum (Westwood),Homoptera,Margarodidae,B=?Y=x
+"Tomato, Lycopersicon esculentum",southern green stink bug,Nezara viridula (L.),Hemiptera,Pentatomidae,B=xY=xT=xP=xM=x
+"Tomato, Lycopersicon esculentum",spider mite,Tetranychus tumidus ,Acari,Tetranychidae,M=x
+"Tomato, Lycopersicon esculentum",striped mealybug,Ferrisia virgata (Cockerell),Homoptera,Pseudococcidae,B=xY=xT=xP=xM=x
+"Tomato, Lycopersicon esculentum",sweetpotato whitefly,Bemisia tabaci (Gennadius),Homoptera,Aleyrodidae,B=xP=?M=x
+"Tomato, Lycopersicon esculentum",tobacco flea beetle,Epitrix hirtipennis (Melsheimer),Coleoptera,Chrysomelidae,M=G
+"Tomato, Lycopersicon esculentum",tomato bug,Cyrtopeltis tenuis (Reuter),Hemiptera,Miridae,B=xT=xP=xM=x
+"Tomato, Lycopersicon esculentum",turnip aphid,Lipaphis erysimi (Kaltenbach),Homoptera,Aphididae,M=x
+"Tomato, Lycopersicon esculentum",vegetable leafminer,Liriomyza sativae Blanchard,Diptera,Agromyzidae,M=G
+"Tropical almond, Terminalia",chinese rose beetle,Adoretus sinicus Burmeister,Coleoptera,Scarabaeidae,B=xM=x
+"Tropical almond, Terminalia",kirkaldy whitefly,Dialeurodes kirkaldyi (Kotinsky),Homoptera,Aleyrodidae,B=xY=xP=xM=x
+"Tropical almond, Terminalia",lilac mealybug,Planococcus lilacinus (Cockerell),Homoptera,Pseudococcidae,M=G
+"Tropical almond, Terminalia",moth,Anua coronata (F.),Lepidoptera,Noctuidae,M=G
+"Tropical almond, Terminalia",myrobalan butterfly,Badamia exclamationis F.,Lepidoptera,Hesperiidae,B=nM=x
+"Tropical almond, Terminalia",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Tropical almond, Terminalia",ochrosia fruit fly,Dacus ochrosiae Malloch,Diptera,Tephritidae,M=x
+"Tropical almond, Terminalia",phytorus leaf beetle,Phytorus lineolatus Weise,Coleoptera,Chrysomelidae,M=x
+"Tropical almond, Terminalia",redbanded thrips,Selenothrips rubrocinctus (Giard),Thysanoptera,Thripidae,B=nY=nT=nP=x?M=x
+"Tropical almond, Terminalia",weevil,Trigonops sp. ,Coleoptera,Curculionidae,B=xY=xT=xP=xM=x
+"Tropical almond, Terminalia",weevil,Trigonops vulgaris Zimmerman,Coleoptera,Curculionidae,M=x
+"Wing bean, Psophocarpus tetragonalubus",cowpea aphid,Aphis craccivora Koch,Homoptera,Aphididae,Y=xT=xP=xK=xM=x
+"Wing bean, Psophocarpus tetragonalubus",vegetable mite,Tetranychus neocaledonicus André,Acari,Tetranychidae,M=G
+"Yams, Dioscorea",cacao armyworm,Tiracola plagiata (Walker),Lepidoptera,Noctuidae,M=x
+"Yams, Dioscorea",citrus mealybug,Planococcus citri (Risso),Homoptera,Pseudococcidae,B=xY=xT=xP=xK=xM=x
+"Yams, Dioscorea",coconut scale,Aspidiotus destructor Signoret,Homoptera,Diaspididae,B=xY=xT=xP=xM=x
+"Yams, Dioscorea",cucurbit leafroller,Diaphania indica (Saunders),Lepidoptera,Pyralidae,B=xM=x
+"Yams, Dioscorea",green garden looper,Chrysodeixis chalcites (Esper),Lepidoptera,Noctuidae,B=nM=x
+"Yams, Dioscorea",latania scale,Hemiberlesia lataniae (Signoret),Homoptera,Diaspididae,B=xY=xT=xP=xK=xM=x
+"Yams, Dioscorea",melia tortricid,Adoxophyes melia Clarke,Lepidoptera,Tortricidae,M=x
+"Yams, Dioscorea",melonworm,Diaphania hyalinata (L.),Lepidoptera,Pyralidae,B=xM=x
+"Yams, Dioscorea",nigra scale,Parasaissetia nigra (Nietner),Homoptera,Coccidae,B=xY=xT=xK=xM=x
+"Yams, Dioscorea",rice cutworm,Spodoptera litura (F.),Lepidoptera,Noctuidae,B=xY=?T=xP=xK=?M=x
+"Yams, Dioscorea",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=C
+"Yams, Dioscorea",spider mite,Tetranychus sp. ,Acari,Tetranychidae,M=x
+"Yams, Dioscorea",yam hawk moth,Theretra nessus (Drury),Lepidoptera,Sphingidae,B=xY=xT=x
