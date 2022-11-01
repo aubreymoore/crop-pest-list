@@ -10,8 +10,10 @@ sqlite3
 .schema
 ```
 
-Here's a simple SQL statement which finds whiteflies attacking citrus.
+The following code finds whiteflies attacking citrus and displays the result as a spreadsheet.
 ```sql
+.headers on
+.excel
 SELECT pest_scientific_name, pest_common_name 
 FROM crop_pest
 WHERE pest_family = 'Aleyrodidae' AND crop LIKE '%Citrus%'
