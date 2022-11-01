@@ -2,7 +2,7 @@
 
 ```
 sqlite3
-.open crop-pest-list.sqlite
+.open crop_pest.sqlite
 .mode csv
-.import crop-pest.csv crop-pest
+.import crop-pest.csv crop_pest
 ```
