@@ -1,6 +1,6 @@
 # crop-pest-list
 
-In addition to [browsing through the data in a web browser](https://aubreymoore.github.io/crop-pest-list/), you can build a simple sqlite database from the **crop-pest.csv** file by executing the following code in a terminal window. 
+In addition to [examining the data in a web browser](https://aubreymoore.github.io/crop-pest-list/), you can build a simple sqlite database from the **crop-pest.csv** file by executing the following code in a terminal window. 
 ```bash
 wget https://github.com/aubreymoore/crop-pest-list/raw/gh-pages/crop-pest.csv
 sqlite3
