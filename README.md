@@ -9,10 +9,6 @@ sqlite3
 .headers on
 .import crop-pest.csv crop_pest
 .schema
-```
-
-```bash
-.headers on
 .excel
 ```
 
