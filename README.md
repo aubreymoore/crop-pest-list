@@ -12,7 +12,7 @@ sqlite3
 ```
 
 The following code finds whiteflies attacking citrus. 
-(Tip: If you want to see the result in a spreadsheet, execute the **.excel** command just before running the SQL query.
+(Tip: If you want to see the result in a spreadsheet, execute the **.excel** command just before running the SQL query.)
 ```sql
 SELECT pest_scientific_name, pest_common_name 
 FROM crop_pest
