@@ -9,10 +9,10 @@ sqlite3
 .headers on
 .import crop-pest.csv crop_pest
 .schema
-.excel
 ```
 
-The following code finds whiteflies attacking citrus and displays the result as a spreadsheet.
+The following code finds whiteflies attacking citrus. 
+(Tip: If you want to see the result in a spreadsheet, execute the **.excel** command just before running the SQL query.
 ```sql
 SELECT pest_scientific_name, pest_common_name 
 FROM crop_pest
@@ -21,6 +21,7 @@ ORDER BY pest_scientific_name, pest_common_name;
 ```
 Result:
 ```
+pest_scientific_name,pest_common_name
 "Aleurocanthus spiniferus (Quaintance)","orange spiny whitefly"
 "Aleurodicus dispersus Russell","spiralling whitefly"
 "Aleurothrixus floccosus (Maskell)","woolly whitefly"
