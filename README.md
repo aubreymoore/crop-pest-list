@@ -7,3 +7,9 @@ sqlite3
 .import crop-pest.csv crop_pest
 .schema
 ```
+
+```sql
+SELECT * 
+FROM crop_pest
+WHERE crop LIKE '%Citrus%' AND pest_family = 'Aleyrodidae';
+```
