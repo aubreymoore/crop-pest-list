@@ -1,6 +1,6 @@
 # crop-pest-list
 
-```
+```bash
 sqlite3
 .open crop_pest.sqlite
 .mode csv
