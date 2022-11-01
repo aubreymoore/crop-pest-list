@@ -13,7 +13,8 @@ sqlite3
 
 Here's a simple SQL statement which finds whiteflies attacking citrus.
 ```sql
-SELECT * 
+SELECT pest_scientific_name, pest_common_name 
 FROM crop_pest
-WHERE crop LIKE '%Citrus%' AND pest_family = 'Aleyrodidae';
+WHERE pest_family = 'Aleyrodidae' AND crop LIKE '%Citrus%'
+ORDER BY pest_scientific_name, pest_common_name;
 ```
