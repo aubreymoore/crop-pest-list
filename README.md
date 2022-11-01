@@ -6,14 +6,18 @@ wget https://github.com/aubreymoore/crop-pest-list/raw/gh-pages/crop-pest.csv
 sqlite3
 .open crop_pest.sqlite
 .mode csv
+.headers on
 .import crop-pest.csv crop_pest
 .schema
 ```
 
-The following code finds whiteflies attacking citrus and displays the result as a spreadsheet.
-```sql
+```bash
 .headers on
 .excel
+```
+
+The following code finds whiteflies attacking citrus and displays the result as a spreadsheet.
+```sql
 SELECT pest_scientific_name, pest_common_name 
 FROM crop_pest
 WHERE pest_family = 'Aleyrodidae' AND crop LIKE '%Citrus%'
