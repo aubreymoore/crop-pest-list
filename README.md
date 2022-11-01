@@ -17,3 +17,10 @@ FROM crop_pest
 WHERE pest_family = 'Aleyrodidae' AND crop LIKE '%Citrus%'
 ORDER BY pest_scientific_name, pest_common_name;
 ```
+Result:
+```
+"Aleurocanthus spiniferus (Quaintance)","orange spiny whitefly"
+"Aleurodicus dispersus Russell","spiralling whitefly"
+"Aleurothrixus floccosus (Maskell)","woolly whitefly"
+"Dialeurodes citrifolii (Morgan)","cloudywinged whitefly"
+```
