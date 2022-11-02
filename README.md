@@ -27,3 +27,13 @@ pest_scientific_name,pest_common_name
 "Aleurothrixus floccosus (Maskell)","woolly whitefly"
 "Dialeurodes citrifolii (Morgan)","cloudywinged whitefly"
 ```
+## Notes
+
+### URL for Google search
+
+[Google search](https://www.google.com/search?q=Bactocera+cucurbitae)
+
+### URL for Google image search
+
+[Google images](https://www.google.com/search?q=Bactocera+cucurbitae&tbm=isch)
+
