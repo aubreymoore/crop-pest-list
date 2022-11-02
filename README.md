@@ -33,6 +33,8 @@ pest_scientific_name,pest_common_name
 
 [Google search](https://www.google.com/search?q=Bactocera+cucurbitae)
 
+[Google search](https://www.google.com/search?q="Bactocera cucurbitae")
+
 ### URL for Google image search
 
 [Google images](https://www.google.com/search?q=Bactocera+cucurbitae&tbm=isch)
