@@ -31,11 +31,9 @@ pest_scientific_name,pest_common_name
 
 ### URL for Google search
 
-[Google search](https://www.google.com/search?q=Bactocera+cucurbitae)
-
-[Google search](https://www.google.com/search?q="Bactocera cucurbitae")
+[Google search](https://www.google.com/search?q=Aleurocanthus+spiniferus+(Quaintance))
 
 ### URL for Google image search
 
-[Google images](https://www.google.com/search?q=Bactocera+cucurbitae&tbm=isch)
+[Google images](https://www.google.com/search?q=Aleurocanthus+spiniferus+(Quaintance&tbm=isch)
 
