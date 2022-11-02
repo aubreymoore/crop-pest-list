@@ -35,5 +35,4 @@ pest_scientific_name,pest_common_name
 
 ### URL for Google image search
 
-[Google images](https://www.google.com/search?q=Aleurocanthus+spiniferus+(Quaintance&tbm=isch)
-
+[Google images](https://www.google.com/search?q=Aleurocanthus+spiniferus+(Quaintance)&tbm=isch)
